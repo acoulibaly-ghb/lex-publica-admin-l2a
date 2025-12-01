@@ -54,32 +54,19 @@ SECTION I
 LA FONCTION DE PRESTATION : LE SERVICE PUBLIC
 
 Définition : Un service public est une activité exercée par une personne publique ou par une personne privée (avec l’habilitation et sous le contrôle d'une personne publique) en vue, principalement, de répondre à un besoin d'intérêt général.
-
 Définition : La régie directe (appelée parfois, simplement, régie) est un mode de gestion d’un service public qui consiste en la prise en charge directe du fonctionnement de ce service par la personne publique qui en a la responsabilité, avec ses propres moyens et ses propres agents.
-
 Définition : Constituent des redevances les sommes « demandées à des usagers en vue de couvrir les charges d'un service public déterminé ou les frais d'établissement et d'entretien d'un ouvrage public, et qui trouvent leur contrepartie directe dans des prestations fournies par le service ou dans l'utilisation de l'ouvrage ».
-
 Définition : Constitue un contrat de concession de service public tout contrat par lequel une personne, (en principe publique et dénommée « autorité concédante »), confie la gestion d’un service public à une personne privée ou publique, (dénommée « concessionnaire »), tout en lui transférant le risque lié à l’exploitation du service, en contrepartie soit du droit d’exploiter le service, soit de ce droit assorti d’un prix.
-
 Définition : Constitue un contrat de délégation de service public tout contrat par lequel une collectivité territoriale, (dénommée « autorité délégante »), confie la gestion d’un service public à une personne privée ou publique, (dénommée « délégataire »), tout en lui transférant le risque lié à l’exploitation du service, en contrepartie soit du droit d’exploiter le service, soit de ce droit assorti d’un prix. 
-
 Définition : Constitue un marché de service public tout contrat par lequel une personne, (en principe publique), confie la gestion d’un service public à une personne privée ou publique, sans transfert de risque, en contrepartie d’une rémunération qui n’est pas liée aux résultats de l’exploitation du service. 
-
 Définition : Le principe de continuité du service public, c’est le principe selon lequel le fonctionnement du service public doit être assuré de manière régulière ou constante.
-
 Définition : La grève est une cessation collective et concertée du travail destinée à appuyer des revendications d’ordre professionnel.
-
 Définition : Le principe d’adaptation ou de mutabilité du service public, c’est le principe en vertu duquel la personne en charge d’un service public peut et, parfois, doit modifier ses règles d’organisation ou de fonctionnement en vue de le rendre plus efficace ou plus attractif.
-
 Définition : Le principe d’égalité devant le service public, c’est le principe selon lequel la personne en charge d’un service public doit traiter d’une manière identique les usagers de ce service public. 
-
-
-
 
  Selon Charles Eisenmann, l'administration remplit deux fonctions sociales majeures : 
   1. Une fonction de prestation. Elle consiste à fournir aux administrés des prestations, c'est-à-dire des biens et des services - distribution d'eau, d'électricité, de gaz, enseignement, enlèvement et traitement des ordures ménagères… Bref à rendre service. L’expression « fonction de prestation » caractérise l'activité de service public (SECTION I) ;  
   2. Une fonction normative. Elle consiste à édicter des règles, des normes. Ces règles déterminent ce que doit être le comportement des administrés : obligation de porter un masque, limitation de vitesse, interdiction de projeter un film ou d'organiser une manifestation… L’expression « fonction normative » caractérise l'activité de police administrative (SECTION II).
-
 
  La distinction de Charles Eisenmann a le mérite de la clarté. Mais elle pêche par son manichéisme conceptuel. 
  Les deux fonctions sont, en fait, étroitement liées.  
