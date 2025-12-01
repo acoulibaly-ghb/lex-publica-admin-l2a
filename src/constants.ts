@@ -2,17 +2,6 @@
 export const KNOWLEDGE_BASE = `
 --- DOCUMENT 1: LES ACTES ADMINISTRATIFS UNILATÉRAUX ---
 Définition: Un acte administratif unilatéral est un acte de droit public (non législatif et non juridictionnel) destiné à régir le comportement d’une ou plusieurs personnes qui, tantôt étrangères, tantôt associées à son édiction, n’en sont pas, juridiquement, les auteurs.
-Distinction Acte réglementaire / individuel:
-- Acte réglementaire: désigne abstraitement ses destinataires (impersonnel). Doit être publié.
-- Acte individuel: désigne nommément ses destinataires. Doit être notifié.
-Définition: Un acte administratif individuel est un acte administratif unilatéral, qui a pour destinataires, une ou plusieurs personnes, qu’il désigne nommément ou nominativement.
-Définition: Un acte administratif réglementaire est un acte administratif unilatéral, qui a pour destinataires une ou plusieurs personnes, qu’il désigne abstraitement, ou qu’il ne désigne pas explicitement.
-Recours:
-- Voie d'action (recours pour excès de pouvoir): dans les 2 mois suivant publication/notification.
-- Voie d'exception (exception d'illégalité): perpétuelle pour les actes réglementaires, limitée au délai de recours pour les actes non réglementaires.
-Décisions:
-- Explicite: Écrite (Visas, Dispositif, Signature).
-- Implicite: Silence gardé par l'administration. Depuis 2013 (loi du 12 nov), le silence vaut acceptation (SVA) au bout de 2 mois, sauf exceptions (ex: demande financière, réclamation, etc. où silence vaut rejet).
 Définition: Une décision administrative est un acte administratif unilatéral, qui affecte l’ordonnancement juridique.
 Définition: L’ordonnancement juridique, c’est l'ensemble des règles de droit qui régissent un milieu social, et des situations juridiques dont sont titulaires les personnes.
 Définition: Affecter l’ordonnancement juridique, c’est soit modifier l’ordonnancement juridique, soit réaffirmer le contenu de l’ordonnancement juridique. 
@@ -25,6 +14,17 @@ Définition: Une circulaire revêt un caractère réglementaire, lorsqu’elle f
 Définition: Une circulaire revêt un caractère impératif, lorsqu’en raison des termes employés par son auteur, ses destinataires sont tenus d’appliquer ses dispositions.
 Définition: Une circulaire revêt un caractère purement interprétatif, lorsqu’elle se borne à indiquer le sens des dispositions des lois et règlements.
 Définition: On appelle « lignes directrices » un acte de portée générale, par lequel une autorité, disposant d’un pouvoir d’appréciation, en général dans un domaine où elle reçoit des demandes de décisions, se fixe à elle-même, ou indique à ses subordonnés une ligne de conduite dans l’exercice de ce pouvoir.
+Définition: Un acte administratif individuel est un acte administratif unilatéral, qui a pour destinataires, une ou plusieurs personnes, qu’il désigne nommément ou nominativement.
+Définition: Un acte administratif réglementaire est un acte administratif unilatéral, qui a pour destinataires une ou plusieurs personnes, qu’il désigne abstraitement, ou qu’il ne désigne pas explicitement.
+Distinction Acte réglementaire / individuel:
+- Acte réglementaire: désigne abstraitement ses destinataires (impersonnel). Doit être publié.
+- Acte individuel: désigne nommément ses destinataires. Doit être notifié.
+Recours:
+- Voie d'action (recours pour excès de pouvoir): dans les 2 mois suivant publication/notification.
+- Voie d'exception (exception d'illégalité): perpétuelle pour les actes réglementaires, limitée au délai de recours pour les actes non réglementaires.
+Décisions:
+- Explicite: Écrite (Visas, Dispositif, Signature).
+- Implicite: Silence gardé par l'administration. Depuis 2013 (loi du 12 nov), le silence vaut acceptation (SVA) au bout de 2 mois, sauf exceptions (ex: demande financière, réclamation, etc. où silence vaut rejet).
 
 --- DOCUMENT 2: LA POLICE ADMINISTRATIVE ---
 Définition: Activité visant à assurer le maintien de l'ordre public, sans tendre à la recherche d'infraction pénale.
