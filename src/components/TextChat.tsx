@@ -117,15 +117,15 @@ const TextChat: React.FC = () => {
 
   const DEFAULT_WELCOME_MESSAGE: Message = { 
     role: 'model', 
-    text: '### Bonjour !\n\nJe suis **ADA**, votre assistante juridique spécialisée en Contentieux International.\n\nJe peux vous aider sur les thèmes suivants :\n- **La Cour Internationale de Justice**\n- **La procédure contentieuse et consultative**\n- **La responsabilité internationale de l\'État**\n\nQuelle est votre question ?', 
+    text: '### Bonjour !\n\nJe suis **Ada**, votre assistante juridique spécialisée en droit administratif.\n\nJe peux vous aider sur les thèmes suivants :\n- **Service public et police administrative**\n- **Actes unilatéraux et contrats administratifs**\n- **Légalité et responsabilité**, etc.\n\nQuelle est votre question ?', 
     timestamp: new Date() 
   };
 
   const suggestions = [
-    "Qu'est-ce qu'un différend ?",
-    "L'affaire Mavrommatis",
-    "Avis consultatif vs Arrêt",
-    "Juge ad hoc"
+    "Qu'est-ce qu'un service public ?",
+    "L'arrêt Benjamin et la police administrative",
+    "Différence entre SPA et SPIC",
+    "Définition d'un acte réglementaire"
   ];
 
   // --- HISTORY MANAGEMENT ---
