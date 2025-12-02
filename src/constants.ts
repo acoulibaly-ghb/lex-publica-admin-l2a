@@ -1160,31 +1160,500 @@ Le plan Vigipirate est un dispositif d’alerte et de prévention qui vise à as
 ***/***
 
 --- DOCUMENT 3: LES ACTES ADMINISTRATIFS UNILATÉRAUX ---
-Définition: Un acte administratif unilatéral est un acte de droit public (non législatif et non juridictionnel) destiné à régir le comportement d’une ou plusieurs personnes qui, tantôt étrangères, tantôt associées à son édiction, n’en sont pas, juridiquement, les auteurs.
-Définition: Une décision administrative est un acte administratif unilatéral, qui affecte l’ordonnancement juridique.
-Définition: L’ordonnancement juridique, c’est l'ensemble des règles de droit qui régissent un milieu social, et des situations juridiques dont sont titulaires les personnes.
-Définition: Affecter l’ordonnancement juridique, c’est soit modifier l’ordonnancement juridique, soit réaffirmer le contenu de l’ordonnancement juridique. 
-Définition: Une décision explicite (ou expresse) est une décision prise expressément, (c’est-à-dire en s’exprimant), par l’administration.
-Définition: Une décision implicite est une décision qu’un texte normatif déduit du silence gardé, pendant un certain temps, par l’autorité administrative saisie d’une demande.
-Circulaires: Acte de portée générale adressé par un chef de service aux agents. Distinction impérative (recours recevable) / non impérative. Depuis 2020 (GISTI), recours recevable si "effets notables".
-Lignes directrices: Orientations générales pour l'exercice d'un pouvoir discrétionnaire. Opposables si publiées.
-Définition: Une circulaire est un acte de portée générale, adressé par un chef de service aux agents placés sous son autorité, à l’effet de leur indiquer la manière d’interpréter et d’appliquer les dispositions des lois et règlements, ainsi que d’assurer l’organisation et le fonctionnement du service.
-Définition: Une circulaire revêt un caractère réglementaire, lorsqu’elle fixe une règle nouvelle absente des dispositions des lois et règlements.
-Définition: Une circulaire revêt un caractère impératif, lorsqu’en raison des termes employés par son auteur, ses destinataires sont tenus d’appliquer ses dispositions.
-Définition: Une circulaire revêt un caractère purement interprétatif, lorsqu’elle se borne à indiquer le sens des dispositions des lois et règlements.
-Définition: On appelle « lignes directrices » un acte de portée générale, par lequel une autorité, disposant d’un pouvoir d’appréciation, en général dans un domaine où elle reçoit des demandes de décisions, se fixe à elle-même, ou indique à ses subordonnés une ligne de conduite dans l’exercice de ce pouvoir.
-Définition: Un acte administratif individuel est un acte administratif unilatéral, qui a pour destinataires, une ou plusieurs personnes, qu’il désigne nommément ou nominativement.
-Définition: Un acte administratif réglementaire est un acte administratif unilatéral, qui a pour destinataires une ou plusieurs personnes, qu’il désigne abstraitement, ou qu’il ne désigne pas explicitement.
-Distinction Acte réglementaire / individuel:
-- Acte réglementaire: désigne abstraitement ses destinataires (impersonnel). Doit être publié.
-- Acte individuel: désigne nommément ses destinataires. Doit être notifié.
-Recours:
-- Voie d'action (recours pour excès de pouvoir): dans les 2 mois suivant publication/notification.
-- Voie d'exception (exception d'illégalité): perpétuelle pour les actes réglementaires, limitée au délai de recours pour les actes non réglementaires.
-Décisions:
-- Explicite: Écrite (Visas, Dispositif, Signature).
-- Implicite: Silence gardé par l'administration. Depuis 2013 (loi du 12 nov), le silence vaut acceptation (SVA) au bout de 2 mois, sauf exceptions (ex: demande financière, réclamation, etc. où silence vaut rejet).
+SECTION I
+LES ACTES ADMINISTRATIFS UNILATÉRAUX
 
+Définition : Un acte administratif unilatéral est un acte de droit public (non législatif et non juridictionnel) destiné à régir le comportement d’une ou plusieurs personnes qui, tantôt étrangères tantôt associées à son édiction, n’en sont pas, juridiquement, les auteurs.
+Définition : Un acte individuel est un acte juridique qui a pour destinataires une ou plusieurs personnes qu’il désigne nommément ou nominativement.
+Définition : Un acte réglementaire est un acte juridique qui a pour destinataires une ou plusieurs personnes qu’il désigne abstraitement ou qu’il ne désigne pas explicitement. 
+Définition : Une décision administrative est un acte administratif unilatéral qui affecte l’ordonnancement juridique.
+Définition : L’ordonnancement juridique, c’est l'ensemble des règles de droit qui régissent un milieu social et des situations juridiques dont sont titulaires les personnes.
+Définition : Affecter l’ordonnancement juridique, c’est
+- soit modifier l’ordonnancement juridique 
+- soit réaffirmer le contenu de l’ordonnancement juridique.  
+Définition : La publication d’un acte administratif consiste à assurer sa diffusion sur un support accessible, simultanément ou presque, au plus grand nombre : insertion dans un journal, affichage, par exemple.
+Définition : La notification d’un acte administratif consiste à communiquer la connaissance de cet acte d’une manière personnalisée : lettre recommandée, remise en mains propres par l’auteur ou un intermédiaire, etc.
+Définition : une décision explicite ou expresse est une décision prise expressément (c’est-à-dire en s’exprimant) par l’administration. 
+Définition : Une décision implicite est une décision qu’un texte normatif déduit du silence gardé, pendant un certain temps, par l’autorité administrative saisie d’une demande. 
+Définition : Une circulaire est un acte de portée générale adressé par un chef de service aux agents placés sous son autorité à l’effet de leur indiquer la manière d’interpréter et d’appliquer les dispositions des lois et règlements ou la manière d’assurer l’organisation et le fonctionnement du service.
+Définition : Une circulaire revêt un caractère réglementaire lorsqu’elle fixe une règle nouvelle absente des dispositions des lois et règlements.
+Définition : Une circulaire revêt un caractère purement interprétatif lorsqu’elle se borne à indiquer le sens des dispositions des lois et règlements.
+Définition : Une circulaire revêt un caractère impératif lorsqu’en raison des termes employés par son auteur ses destinataires sont tenus d’appliquer ses dispositions.
+Définition : Une ligne directrice (ou directive) est un acte de portée générale par lequel une autorité disposant d’un pouvoir d’appréciation, en général dans un domaine où elle reçoit des demandes de décisions, se fixe à elle-même, ou indique à ses subordonnés une ligne de conduite dans l’exercice de ce pouvoir. 
+
+
+ Question : Que recouvre l'expression « actes administratifs » ? 
+ Réponse : L'expression actes administratifs désigne 
+* aussi bien les actes administratifs unilatéraux (SECTION I), 
+* que les contrats administratifs (SECTION II).
+
+        I – L'identification de l’acte administratif unilatéral
+ Affirmer qu’un acte est un acte administratif unilatéral revient à dire deux choses, à énoncer deux qualifications, à savoir 
+1. que cet acte est unilatéral (A)
+2. et que cet acte est administratif (B).
+ 
+
+      A – Acte unilatéral et acte plurilatéral
+ Comment distinguer un acte unilatéral d’un acte plurilatéral (ou contrat) 
+ Comme le souligne l’adage bien connu, après deux tentatives infructueuses (1), la troisième (2) sera la bonne. 
+Sommaire de cette sous-partie I – A
+1 – Les critères inopérants	10
+2 – Le critère retenu	11
+
+1 – Les critères inopérants 
+ Deux critères ont été proposés à l’effet de distinguer un acte unilatéral d’un acte plurilatéral (ou contrat) : 
+* Le critère du nombre d’auteurs
+* Le critère du consentement.
+ Il est relativement aisé de démontrer que ces deux critères sont inopérants, c’est-à-dire dépourvus de pertinence. 
+Ce n’est pas le nombre de leurs auteurs qui distingue substantiellement l’acte unilatéral et l’acte plurilatéral (ou contrat).
+ Bien entendu, un acte qui n’a qu’un seul auteur est nécessairement unilatéral. 
+Mais un acte qui a plusieurs auteurs n’est pas nécessairement un acte plurilatéral.
+En effet, comme l’acte plurilatéral, l’acte unilatéral peut fort bien avoir plusieurs auteurs. 
+* Exemples d’actes administratifs unilatéraux ayant plusieurs auteurs : 
+* un arrêté interministériel (il est pris conjointement par deux ou plusieurs ministres) 
+* un arrêté pris conjointement par deux maires pour réglementer une rue dont l’axe délimite les territoires de leurs deux communes.
+Ce n’est pas non plus l’absence de consentement du destinataire qui distingue substantiellement l’acte unilatéral et l’acte plurilatéral (ou contrat).
+ Certes, beaucoup d’actes administratifs unilatéraux sont pris sans le consentement de leurs destinataires. 
+Mais il existe un grand nombre d’actes administratifs unilatéraux qui n’ont pu être pris qu’avec le consentement de leurs destinataires. 
+* Exemple d’acte administratif unilatéral ne pouvant être pris qu’avec le consentement de son destinataire : la nomination d’un fonctionnaire. 
+ Ainsi, l’acte administratif unilatéral n’est-il pas toujours un acte pris sans le consentement de son destinataire.
+*
+ On ne peut donc définir l’acte administratif unilatéral 
+* ni comme un acte pris sans le consentement de son destinataire, sinon on laisserait de côté les actes administratifs unilatéraux pris avec le consentement de leurs destinataires ;
+* ni comme un acte pris avec le consentement de son destinataire, sinon on ferait abstraction des actes administratifs unilatéraux pris sans le consentement de leurs destinataires.
+ Logiquement, on ne peut définir l’acte administratif unilatéral que sur la base de ce qui est commun à la fois 
+* aux actes administratifs unilatéraux pris sans le consentement de leurs destinataires 
+* et aux actes administratifs unilatéraux pris avec le consentement de leurs destinataires.
+ Évidemment, ce qui vient d’être dit vaut aussi pour le nombre d’auteurs.
+**
+2 – Le critère retenu
+ Le véritable critère de la distinction « acte unilatéral – acte plurilatéral », c’est la situation juridique du destinataire de l’acte.
+ En effet, un acte a toujours un destinataire : la personne dont il régit le comportement. Cette personne est identifiable ou non. 
+ Mais, ce qui compte au regard de la distinction « acte unilatéral – acte plurilatéral », c’est la réponse à la question suivante : Est-ce que le destinataire est aussi, juridiquement, l’auteur de l’acte 
+* Si oui, on est en présence d’un acte plurilatéral, d’un contrat, avec au moins deux parties, deux côtés. 
+* Sinon, il s’agit d’un acte unilatéral.
+
+Définition : Un acte administratif unilatéral est un acte de droit public (non législatif et non juridictionnel) destiné à régir le comportement d’une ou plusieurs personnes qui, tantôt étrangères tantôt associées à son édiction, n’en sont pas, juridiquement, les auteurs.
+
+ Cette définition de l’acte administratif unilatéral illustre toute la distance qui sépare le droit du réel. 
+Dans les faits, nombre d’actes unilatéraux sont négociés par leurs destinataires. 
+Mais, juridiquement, ceux-ci ne sont pas considérés comme les auteurs de ces actes, qui restent donc, toujours juridiquement, des actes administratifs unilatéraux.
+*
+ Il est tentant d’opposer à notre définition de l’acte administratif unilatéral l’objection suivante : 
+ Étant donné que les actes administratifs unilatéraux pris par une autorité s’appliquent aussi à cette autorité, force est de reconnaître que nous sommes en présence d’un destinataire qui est également auteur de l’acte.
+ Réponse pratique à l’objection : Si un acte administratif unilatéral pris par une autorité a pour destinataires 40 000 000 de Français dont cette autorité elle-même, on est en droit de dire deux choses :
+1. Principe : 39 999 999 destinataires de l’acte n’en sont pas juridiquement les auteurs ;
+2. Exception : 1 destinataire est également auteur de l’acte qu’il peut toujours modifier ou supprimer.
+ À ne souligner que l’exception, on en vient à oublier le principe.
+ Notre définition de l’acte administratif unilatéral reflète un principe qui, comme tout principe juridique, peut bien supporter une exception sans faiblir de manière notable.  
+**
+*
+        B – Acte administratif unilatéral et acte de droit privé
+ Le droit même de prendre des actes administratifs unilatéraux dénote ce que l’on appelle une prérogative de puissance publique1 (Nota bene : il existe d’autres prérogatives de puissance publique). 
+ Par prérogative de puissance publique, il convient d’entendre :
+       * un privilège réservé en principe à l’autorité publique,
+       * ou, selon Raymond Odent, « une prérogative régalienne »
+       * ou encore, « un pouvoir d'autorité exorbitant du droit commun et qui s'exerce dans un but d'intérêt général », d’après le commissaire du gouvernement Schmelck dans ses conclusions sur TRIBUNAL DES CONFLITS, 8 décembre 1969, S.A.F.E.R. de Bourgogne et Arcival.   
+
+1 – Les actes des personnes publiques
+ Pour identifier, parmi les actes unilatéraux des personnes publiques, ceux qui sont des actes administratifs unilatéraux et ceux qui sont des actes de droit privé, il y a lieu de faire application
+* à titre principal, d’un critère organique
+* et, à titre accessoire, d’un critère fonctionnel.
+ Cette démarche conduit à énoncer un principe et des exceptions.
+ En principe, les actes unilatéraux des personnes publiques sont des actes administratifs unilatéraux. 
+Pourquoi ?  Parce que ces actes émanent par définition d’organes publics. 
+Le principe ainsi énoncé se fonde donc sur un critère organique.
+ Par exception, certains actes unilatéraux des personnes publiques sont des actes de droit privé.
+Pourquoi ?  Parce que ces actes sont pris dans le cadre d’activités ou de fonctions spécifiques. 
+Les exceptions ainsi annoncées se fondent donc sur un critère fonctionnel.
+ Lorsque des personnes publiques prennent des actes de droit privé, on dit que les actes en question ne traduisent pas l’exercice (ou la mise en œuvre) d’une prérogative de puissance publique (au sens indiqué plus haut, page 12)
+* Exemples d'actes de droit privé pris par des personnes publiques :
+1. Les actes non réglementaires pris pour la gestion du domaine privé (des actes jugés non détachables de la gestion du domaine privé) – Conseil d’État, 23 juillet 1931, Dame Grand d'Esnon ; Tribunal des Conflits, 24 octobre 1994, Duperray et SCI Les Rochettes. 
+Bien entendu, les actes réglementaires pris pour la gestion du domaine privé constituent, en revanche, des actes administratifs unilatéraux ; 
+2. Les actes non réglementaires pris pour la gestion des services publics à caractère industriel et commercial - Conseil d’État, 18 déc. 1957, Commune de Golbey.
+**
+2 – Les actes des personnes privées
+ Comme précédemment (cf. page 13), pour identifier, parmi les actes unilatéraux des personnes privées, ceux qui sont des actes administratifs unilatéraux et ceux qui sont des actes de droit privé, il y a lieu d’appliquer
+* à titre principal, un critère organique
+* et, à titre accessoire, un critère fonctionnel.
+ Cette démarche conduit à énoncer un principe et des exceptions.
+ En principe, les actes unilatéraux des personnes privées sont des actes de droit privé. 
+Pourquoi ?  Parce que ces actes émanent par définition d’organismes privés. 
+Le principe ainsi énoncé se fonde donc sur un critère organique.
+ Par exception, certains actes unilatéraux des personnes privées sont des actes administratifs unilatéraux.
+Pourquoi ? Parce que ces actes sont pris par les personnes privées dans le cadre d’activités ou de fonctions spécifiques. 
+Les exceptions ainsi annoncées se fondent donc sur un critère fonctionnel.
+ Lorsque des personnes privées ont le droit de prendre des actes administratifs unilatéraux, on dit qu’elles sont « dotées de prérogatives de puissance publique » ou que leurs actes « manifestent l’exercice de prérogatives de puissance publique » (au sens indiqué plus haut, page 12).
+       * Exemples d'actes administratifs unilatéraux pris par des personnes privées :
+1. Les actes (individuels ou réglementaires) pris par un organisme de droit privé relativement à la gestion d’un service public administratif – Conseil d’État, Section, 13 janvier 1961, Magnier ;
+2. Les actes réglementaires pris par un organisme de droit privé relativement à l’organisation d’un service public industriel et commercial2 – Tribunal des Conflits, 15 janvier 1968, Compagnie Air France c/ Époux Barbier.
+Ainsi donc, les personnes privées ne peuvent prendre des actes administratifs unilatéraux que si elles ont en charge un service public.
+Illustration
+Les fédérations sportives, personnes morales de droit privé chargées par la loi d’une mission de service public à caractère administratif, peuvent prendre des actes administratifs : Conseil d’État, Section, 22 novembre 1974, Fédération des industries françaises d’articles de sport. 
+*
+   II – La typologie des actes administratifs unilatéraux 
+ Question : Quelles sont les classifications auxquelles ont donné lieu les actes administratifs unilatéraux ? 
+ Réponse : Les actes administratifs unilatéraux ont donné lieu à plusieurs classifications :
+1. décisions (ou actes décisoires) et actes non décisoires (décisions et « non décisions ») ;
+2. décisions réglementaires et décisions non réglementaires ;
+3. décisions explicites (ou expresses) et décisions implicites.
+En d'autres termes, 
+1. tout acte administratif unilatéral est soit un acte administratif décisoire (c’est-à-dire une décision administrative) soit un acte administratif non décisoire,
+2. tout acte administratif décisoire (c'est-à-dire toute décision administrative) est soit un acte réglementaire, soit un acte non réglementaire ;
+3. tout acte administratif décisoire (c'est-à-dire toute décision administrative, qu’elle soit réglementaire ou non) est soit une décision explicite (ou expresse), soit une décision implicite.
+Nota bene : Toute décision administrative est un acte administratif unilatéral, mais tout acte administratif unilatéral n'est pas une décision.
+ Question : Pourquoi faut-il étudier les différentes classifications auxquelles ont donné lieu les actes administratifs unilatéraux ? 
+ Réponse : Il est nécessaire d'étudier les différentes classifications auxquelles ont donné lieu les actes administratifs unilatéraux parce que ces classifications entraînent d'importantes conséquences juridiques. Celles-ci seront exposées dans ce cours.
+
+     A – Les actes réglementaires et les actes non réglementaires 
+
+1 – Le critère de la distinction des actes réglementaires et des actes individuels
+ Comme la distinction « acte unilatéral – acte plurilatéral », la distinction « acte réglementaire – acte non réglementaire » ne repose pas substantiellement sur un critère quantitatif. 
+À nouveau, il faut prendre en considération le destinataire de l’acte. 
+ Ce qui distingue l’acte réglementaire et l’acte individuel, c’est la manière dont ils désignent leurs destinataires.
+
+Définition : Un acte individuel est un acte juridique qui a pour destinataires une ou plusieurs personnes qu’il désigne nommément ou nominativement.
+
+Définition : Un acte réglementaire est un acte juridique qui a pour destinataires une ou plusieurs personnes qu’il désigne abstraitement ou qu’il ne désigne pas explicitement. 
+
+L’acte réglementaire revêt un caractère général et impersonnel (Ici, général ne se rapporte pas au nombre ! Il exprime le caractère abstrait de l’objet de l’acte.)
+ Un acte unilatéral peut être considéré comme individuel même s’il a pour destinataires plusieurs personnes. Ce qui est pertinent, c’est le fait qu’il les désigne nommément.
+ Un acte unilatéral peut être tenu pour réglementaire même s’il a pour destinataire une seule personne – par exemple, décret n° 2011-905 du 29 juillet 2011 s’appliquant au Défenseur des droits. Ce qui est pertinent, c’est le fait qu’il ne désigne pas cette personne par son nom, mais, par exemple, par sa qualité.
+* Exemples intéressants d’actes réglementaires
+ - Le refus de prendre un acte réglementaire constitue un acte réglementaire – Conseil d’État, Assemblée, 8 juin 1973, Richard : « [L]es décisions refusant de prendre un décret réglementaire doivent elles-mêmes être regardées comme de nature réglementaire […] »3
+ - Les actes qui se rapportent à l’organisation d’un service public (qui influent directement sur la manière dont un service public est assuré) ont toujours un caractère réglementaire4.
+ - Même solution en ce qui concerne les actes portant délégation de signature, lesquels touchent d’ailleurs à l’organisation du service public – Exemple : Conseil d’État, 27 juillet 2001, Association de droit allemand « Stiftung Jean Arp und Sophie Taeuber ».
+*
+
+ Question : Un acte administratif unilatéral a-t-il nécessairement soit un caractère réglementaire, soit un caractère individuel ? 
+ Réponse : Non. Une troisième catégorie d’actes a été mise au jour : celle des décisions d’espèce, appelées aussi décisions sui generis ou actes mixtes.
+Ces actes relèvent à la fois du régime de l’acte réglementaire et de celui de l’acte individuel. 
+L’identification de ces actes hybrides n’est pas chose aisée. Bien souvent, force est de s’en remettre à l’appréciation du juge. 
+* Exemple : Les décisions portant reclassement d’une route dans la voirie d’une collectivité territoriale. 
+Conseil d’État, 25 septembre 2009, Commune de Coulomby : « Considérant qu’une décision portant reclassement dans la voirie d’une collectivité territoriale, intervenue sur le fondement de l’article L. 123-3 du code de la voirie routière et qui participe de la redéfinition du réseau routier national mentionné à l’article L. 121-1 du même code, ne constitue pas une décision réglementaire et ne présente pas davantage le caractère d’une décision administrative individuelle […] »
+**
+2 – L’intérêt de la distinction des actes réglementaires et des actes individuels 
+a – Les modalités de la publicité
+ Nemo censetur ignorare legem (Nul n’est censé ignorer la loi). Cet adage bien connu n’a de sens, en ce qui concerne aussi bien les lois que les actes administratifs, que si les uns et les autres font l’objet d’une publicité adéquate.
+ La publicité permet de porter l’acte administratif à la connaissance de ses destinataires ainsi que, le cas échéant, des tiers intéressés.
+ Qui plus est, sauf exceptions, l’entrée en vigueur d’un acte est subordonnée à une publicité adéquate6.
+ Enfin, choisie et mise en œuvre d’une manière régulière, la publicité entraîne le déclenchement, un jour plus tard, du délai de recours contentieux.
+ Question : La publicité doit-elle être assurée de la même manière pour les actes réglementaires et pour les actes individuels ? 
+ Réponse : Non. Le principe est que les actes réglementaires doivent faire l’objet d’une publication, tandis que les actes individuels doivent faire l’objet d’une notification à leurs destinataires. Précisons que la notification d’un acte individuel doit comporter la mention des délais de recours et des voies de recours contre cet acte individuel.
+ Question : Qu’entend-on par publication et par notification ? 
+ Réponse : Les définitions de ces deux formes de publicité sont relativement simples.
+
+Définition : La publication d’un acte administratif consiste à assurer sa diffusion sur un support accessible, simultanément ou presque, au plus grand nombre : insertion dans un journal, affichage, par exemple.
+*
+Définition : La notification d’un acte administratif consiste à communiquer la connaissance de cet acte d’une manière personnalisée : lettre recommandée, remise en mains propres par l’auteur ou un intermédiaire, etc. 
+
+**
+b – Les possibilités de contestation de la légalité de l’acte
+Devant le juge, il existe deux voies pour contester la légalité d’un acte :
+* la voie de l’action
+* et la voie de l’exception, qui est en quelque sorte une « session de rattrapage », selon Mme Aurélie Bretonneau du Conseil d’État – Conclusions sur Conseil d’État, assemblée, 18 mai 2018, Fédération des finances et affaires économiques de la CFDT. 
+i – La contestation contentieuse par voie d’action 
+ On appelle « contestation contentieuse par voie d’action » le recours dirigé directement contre un acte administratif. 
+Le recours pour excès de pouvoir est l’archétype de la contestation contentieuse par voie d’action, car il tend directement à l’annulation d’un acte administratif.
+ Comme tout recours par voie d’action, le recours pour excès de pouvoir est enfermé dans un certain délai.
+Rappelons que c’est la publicité, choisie et mise en œuvre d’une manière régulière, qui entraîne le déclenchement, un jour plus tard, du délai de recours.
+ En principe, un recours pour excès de pouvoir, recours tendant à l’annulation d’un acte administratif unilatéral (réglementaire ou non réglementaire) doit être formé dans les deux mois suivant, selon le cas, la publication ou la notification de cet acte. 
+ Le délai de recours contentieux de droit commun, le délai normal (qui dure deux mois) est un délai franc. Explications dans les quatre considérations ci-dessous. 
+ Le délai se calcule de quantième à quantième, quel que soit le nombre de jours que comportent les mois compris dans le délai. 
+ Si le délai expire normalement un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'à la fin du premier jour ouvrable suivant7.
+ De plus, on ne compte ni le jour où intervient l’événement (publication ou notification) qui déclenche le délai, ni le jour où le délai cesse de courir. 
+ On ajoute un jour au jour où se produit l’événement déclenchant le délai (J + 1). Le calcul est donc relativement aisé.
+* Exemple :
+Une décision prise le 2 novembre 2022, est notifiée, dans le respect des règles (c’est-à-dire, notamment, avec la mention des délais et voies de recours contre cette décision), à son destinataire, Mme Alpha, le 3 novembre 2022 (Jour J). 
+Le délai de recours contentieux commence à courir le 4 novembre 2022 (J+1), à zéro heure – « dies a quo » ou premier jour du délai. 
+Il expire normalement deux mois plus tard, c’est-à-dire le 3 janvier 2023, à vingt-quatre heures – « dies ad quem » ou dernier jour du délai. 
+Mais, comme chacun le sait, les bureaux des administrations publiques sont rarement ouverts jusqu’à vingt-quatre heures. 
+Pour ne pas priver les administrés de quelques heures de délai, on admet que leurs recours contentieux soient recevables le lendemain de ce « dies ad quem ». 
+Donc, pour être recevable, le recours de Mme Alpha doit être enregistré au plus tard le 4 janvier 2023. 
+Et si le 4 janvier 2023 est un samedi, un dimanche ou un jour férié, le recours de Mme Alpha sera recevable jusqu’à la fin du premier jour ouvrable suivant.
+À retenir : on ajoute un jour au jour où se produit l’événement (en l’espèce, la notification, une des formes de la publicité) déclenchant le délai (J + 1).
+Passé le délai, le recours est, en principe, tardif, donc irrecevable, et l’intéressé forclos. 
+La voie de l’action étant fermée par l’expiration du délai, il reste la voie de l’exception (ii). 
+À cet égard, une différence essentielle sépare les actes réglementaires des actes individuels : la durée de l’ouverture de la voie de l’exception.
+**
+ii – La contestation contentieuse par voie d’exception 
+ La contestation contentieuse par voie d’exception a été qualifiée, on s’en souvient, de « session de rattrapage » par Mme Aurélie Bretonneau du Conseil d’État – Cf. page 21. Cette qualification est pertinente comme nous l’allons montrer par un exemple concret.
+Mais avant cela, précisons que, techniquement parlant, la contestation contentieuse par voie d’exception de la légalité d’un acte correspond à ce que l’on appelle communément l’exception d’illégalité.
+
+Définition de l’exception d’illégalité :
+L’exception d’illégalité, c’est un acte de procédure qui consiste à demander l’annulation d’un acte administratif en contestant la légalité d’un autre acte sur la base duquel ou pour l'application duquel il a été pris.
+
+
+* Exemple :
+Le 1er janvier 2021, le Premier ministre prend, naturellement sous forme de décret, un règlement de police R limitant à 40 km/h la vitesse autorisée en agglomération. 
+Ce texte est publié au JO le 5 janvier 2021. 
+Le 9 mars 2021 (soit plus de deux mois après sa publication), l’administré Alpha en demande l’annulation au Conseil d’État par le biais d’un recours pour excès de pouvoir. 
+Ce recours est jugé irrecevable pour tardiveté, forclusion. 
+En effet, le règlement R du 1er janvier 2022 est devenu définitif depuis le 6 mars 2021, dernier jour du délai de recours de deux mois. 
+Le 4 avril 2022, sur la base de ce règlement R du 1er janvier 2021, le préfet de la Haute-Garonne, suspend, par une décision I, le permis de conduire de l’administré Alpha. Cette décision I a pour destinataire nommément désigné l’administré Alpha ; il s’agit donc d’un acte individuel.  
+La décision I est notifiée, dans le respect des règles (c’est-à-dire, notamment, avec la mention des délais et voies de recours contre cette décision), à l’administré Alpha le 11 avril 2022 (Donc, recours recevable jusqu’au lundi 13 juin 2022 inclus, puisque le 12 juin 2022, normalement dernier jour du délai, est un dimanche !)  
+Le 11 mai 2022, Alpha demande au tribunal administratif l’annulation de la décision I. 
+Alpha peut invoquer, comme moyen d’annulation de la décision individuelle I du 4 avril 2022, l’illégalité du règlement R du 1er janvier 2021. 
+On dit qu’il excipe de l’illégalité du règlement R du 1er janvier 2022, ou, mieux qu’il conteste par voie d’exception la légalité du règlement R pour obtenir l’annulation de la décision I.
+*
+ Question : Finalement, en quoi consiste l’exception d’illégalité ?  
+ Réponse : C’est on ne peut plus simple. Supposant que l’autorité administrative ait pris deux décisions A et B.  Supposons également que le rapport entre ces deux décisions soit le suivant : la décision B a été prise sur la base de la décision A, ou la décision B a été prise pour assurer l’application de la décision A. 
+Un requérant Alpha peut demander au juge l’annulation de la décision B en invoquant comme arguments les illégalités qui entachent la décision A. On dit alors que le requérant Alpha excipe de l’illégalité de la décision A pour obtenir l’annulation de la décision B. C’est cela l’exception d’illégalité.
+ Question : Pour obtenir l’annulation de la décision B, le requérant Alpha peut-il invoquer comme argument toute illégalité entachant la décision A ? 
+ Réponse : Non. Si l’acte A est un acte réglementaire, il y a deux types d’illégalités que le requérant Alpha ne peut pas invoquer : le vice de procédure et le vice de forme – Conseil d’État, Assemblée, 18 mai 2018, Fédération des finances et affaires économiques de la CFDT.
+ Question : Y a-t-il un délai pour soulever une exception d’illégalité ? 
+ Réponse : On constate à ce niveau une grande différence entre les actes réglementaires et les actes non réglementaires.
+ L’exception tirée de l’illégalité d’un acte règlementaire peut être présentée à toute époque. On dit qu’elle est perpétuelle.
+ En revanche, l’exception tirée de l’illégalité d’un acte non réglementaire n’est recevable, en principe, que si elle est présentée avant l’expiration du délai de recours contre cet acte non réglementaire. 
+**
+
+*
+      B – Les actes décisoires (ou décisions administratives) et les actes non décisoires
+ Question : Actes décisoires et actes non décisoires ? 
+ Réponse : Ces deux expressions sont assez explicites. Elles désignent respectivement
+* les actes administratifs unilatéraux qui sont des décisions (actes décisoires)
+* et les actes administratifs unilatéraux qui ne sont pas des décisions (actes non décisoires) 
+Cette terminologie a été retenue dans le code des relations entre le public et l’administration (CRPA), code créé par l’ordonnance n° 2015-1341 du 23 octobre 2015.
+
+1 – Les actes administratifs unilatéraux décisoires ou décisions administratives
+ Question : Quel rapport y a-t-il entre les actes administratifs unilatéraux et les décisions administratives ? 
+ Réponse : Toutes les décisions administratives sont des actes administratifs unilatéraux, mais la réciproque n’est pas vraie.  Tous les actes administratifs unilatéraux ne sont pas des décisions administratives.  
+ Autrement dit, il existe deux types d’actes administratifs unilatéraux
+* les actes administratifs unilatéraux qui sont des décisions administratives
+* et les actes administratifs unilatéraux qui ne sont pas des décisions administratives.
+ Il y a donc lieu d’indiquer le critère du caractère décisoire d’un acte administratif unilatéral.
+a – Le critère du caractère décisoire d’un acte administratif unilatéral 
+ Ce critère est au cœur de la définition de la décision administrative.
+
+
+Définition : Une décision administrative est un acte administratif unilatéral qui affecte l’ordonnancement juridique.
+Définition : L’ordonnancement juridique, c’est l'ensemble des règles de droit qui régissent un milieu social et des situations juridiques dont sont titulaires les personnes.
+Définition : Affecter l’ordonnancement juridique, c’est
+- soit modifier l’ordonnancement juridique 
+- soit réaffirmer le contenu de l’ordonnancement juridique. 
+
+**
+b – Les décisions explicites (ou expresses) et les décisions implicites.
+ La distinction décision explicite (ou expresse) - décision repose sur la manière de décider.
+Il est deux manières, pour une autorité administrative, de décider.
+
+i – Les décisions explicites (ou expresses)
+
+
+Définition : une décision explicite ou expresse est une décision prise expressément (c’est-à-dire en s’exprimant) par l’administration. 
+
+ Formellement, une décision explicite (ou expresse), lorsqu’elle est écrite, se présente comme un texte comportant trois parties :
+1. les visas par lesquels l’auteur de la décision fait référence aux motifs de droit (c’est-à-dire les textes sur lesquels il se fonde pour prendre sa décision) et, le cas échéant, aux motifs de fait qui l’ont conduit à prendre sa décision : vu la loi, vu le décret, vu l’avis, étant donné tel événement, etc. ;
+2. le dispositif, la partie proprement décisionnelle, partie articulée (composée d’articles) ;
+3. la formule exécutoire suivie des signatures et, éventuellement, des contreseings. 
+**
+ Question : Qu’est-ce qu’un décret ?  
+ Réponse : « Décret », tel est, en principe, le nom donné aux décisions administratives prises par le Premier ministre ou par le Président de la République, et ce, quelle que soit la matière.
+ Question : Qu’est-ce qu’un arrêté ?  
+ Réponse : « Arrêté », tel est, en principe, le nom donné aux décisions administratives prises par toutes les autorités administratives autres que le Président de la République et le Premier ministre, et ce quelle que soit la matière.
+« Délibération » est le nom donné aux décisions administratives prises par les assemblées et autres organismes collégiaux : conseil municipal, départemental ou régional, par exemple.
+**
+ii – Les décisions implicites
+
+Définition : Une décision implicite est une décision qu’un texte normatif déduit du silence gardé, pendant un certain temps, par l’autorité administrative saisie d’une demande. 
+
+Comment une décision implicite est-elle prise ? 1/2
+1. L’administration ne décide pas expressément, elle ne s’exprime pas ;  
+2. On dit qu’elle « garde le silence » ; 
+3. Mais son silence est interprété comme une décision ; 
+4. Une telle décision est appelée « décision implicite » ;
+5. Une décision implicite n’existe pas matériellement ; elle n’existe que juridiquement. Il s’agit d’une fiction instituée par différents textes législatifs ou réglementaires. ; 
+6. Une décision implicite n’est jamais prise spontanément par l’administration ;
+7. Une décision implicite intervient toujours à la suite d’une demande adressée à l’administration par un administré ;
+8. Le silence de l’administration est alors interprété 
+   - soit comme un refus, un rejet de la demande (décision implicite de rejet), 
+   - soit comme une acceptation (décision implicite d’acceptation).
+**
+Comment une décision implicite est-elle prise ? 2/2
+1. Un citoyen adresse une demande à l’administration (par exemple, une demande d’inscription à l’université) ;  
+2. L’administration n’accepte ni ne rejette explicitement cette demande ; 
+3. Du fait de cette absence de décision explicite sur le sort de la demande, on dit que l’administration garde le silence sur la demande ; 
+4. Au bout d’un certain délai, le silence de l’administration est interprété comme une décision ;
+5. C’est cette décision née du silence sur la demande que l’on appelle une décision implicite ; 
+6. En vertu de l‘article L.231-1 du code des relations entre le public et l’administration (CRPA, loi du 12 novembre 2013), le silence gardé pendant deux mois est interprété en principe comme une acceptation de la demande : décision implicite d’acceptation ;
+7. Par exception, le silence gardé pendant une durée variant selon les domaines est interprété comme un rejet de la demande : décision implicite de rejet.
+**
+ En définitive, s’agissant des décisions implicites il existe un principe assorti de nombreuses exceptions.
+ Voici le principe : « Le silence gardé pendant deux mois par l'administration sur une demande vaut décision d'acceptation. »
+C'est ce que d’aucuns appellent la règle du silence vaut acceptation (SVA).
+Le délai de 2 mois court à partir de la date de réception de la demande par l'administration compétente.
+En principe ici, qui ne dit mot consent : décision implicite d’acceptation.
+La décision implicite d’acceptation est le principe, la décision implicite de rejet l’exception.
+ Voici donc deux des nombreuses exceptions. Par exemple, le silence gardé pendant deux mois par l'administration sur une demande vaut refus (décision implicite de rejet) dans les deux cas suivants :
+- Lorsque la demande ne tend pas à l'adoption d'une décision présentant le caractère d'une décision individuelle ;
+- Lorsque la demande présente un caractère financier sauf, en matière de sécurité sociale.
+*
+ On trouvera sur un site gouvernemental la liste des procédures pour lesquelles le silence gardé par l’administration sur une demande vaut accord.
+**
+iii – L’intérêt des décisions implicites
+ Deux principes se sont succédé :
+   1. Le principe appliqué avant l’entrée en vigueur de la loi n° 2013-1005 du 12 novembre 2013 : Le silence gardé pendant plus de deux mois par l'autorité administrative sur une demande vaut décision de rejet.
+   2. Le principe appliqué depuis l’entrée en vigueur de la loi n° 2013-1005 du 12 novembre 2013 : Le silence gardé pendant deux mois par l'administration sur une demande vaut décision d'acceptation.
+Chacun de ces deux principes présente un intérêt spécifique.
+L’intérêt de l’ancien principe « silence vaut rejet »
+L’ancien principe selon lequel le silence gardé pendant plus de deux mois sur une demande vaut décision implicite de rejet a été énoncé à partir d’un raisonnement simple : 
+* Le juge administratif ne peut être saisi que d’un recours dirigé contre une décision : c’est la « règle de la décision préalable », vestige de la théorie du ministre-juge ; 
+* Or, parfois l’administration saisie d’une demande ne prend pas une décision expresse, elle garde le silence ;
+* Si on n’interprétait pas ce silence comme une décision, le particulier demandeur ne pourrait pas saisir le juge administratif, et l’administration pourrait méconnaître impunément la légalité.
+ Un administré peut donc attaquer devant le juge administratif une décision implicite qu’il estime illégale et ce, dans les deux mois de l’intervention de la décision implicite.
+L’intérêt du nouveau principe « silence vaut acceptation »
+L’intérêt du nouveau principe selon lequel le silence gardé pendant deux mois sur une demande vaut décision implicite d’acceptation, c’est d’obliger l’administration  
+* à instruire les demandes qui lui sont adressées 
+* et à prendre une décision expresse dans un délai inférieur à deux mois. 
+**
+2 – Les actes non décisoires : mesures d’ordre intérieur ou actes de référence internes 
+ L’appellation d’actes non décisoires désigne, sans surprise, des actes qui ne sont pas considérés comme des décisions au sens juridique du terme.
+Il s’agit essentiellement des circulaires (parfois dénommées instructions ou notes de service) et des lignes directrices.
+Devant le Conseil d’État, M. Guillaume Odinet observe que la Haute juridiction administrative n’a jamais défini ni la circulaire ni les lignes directrices. Il ajoute :
+« Vous ne l’avez pas fait car votre jurisprudence ne s’est jamais montrée formaliste et s’est toujours attachée, au contraire, à identifier les marchandises que recouvrait ce pavillon. » – ODINET (Guillaume), Conclusions précitées sur Conseil d’État, Section, 12 juin 2020, GISTI.
+L’identification passe par une qualification adéquate.
+Circulaires et lignes directrices ont successivement reçu les qualifications suivantes :
+* mesures d’ordre intérieur, car elles ont pour destinataires directs les agents de l’administration 
+* actes de référence puisqu’elles orientent les futures décisions des agents de l’administration.
+a – Les circulaires
+i – La définition et la typologie des circulaires
+
+Définition : Une circulaire est un acte de portée générale adressé par un chef de service aux agents placés sous son autorité à l’effet de leur indiquer la manière d’interpréter et d’appliquer les dispositions des lois et règlements ou la manière d’assurer l’organisation et le fonctionnement du service.
+
+ Questions : Quelle est l’origine historique des circulaires ?  Pourquoi ont-elles une réputation controversée ? 
+ Guillaume Odinet du Conseil d’État répond et explique :
+« La circulaire, dont le nom dérive de la lettre circulaire ainsi qualifiée de par sa vocation à "faire le tour du royaume" est, en vérité, presque aussi vieille que l’administration. 
+"Idole du commis ministériel", "effroi du commis départemental", elle a anciennement et durablement eu mauvaise presse, tant en raison de sa capacité à proliférer que par son caractère de "littérature grise", para-normative, de l’administration, manifestant "un recul de la règle de droit vers le précaire et le confidentiel" – l’étude annuelle de 2006 parlait d’un "droit souterrain, clandestin, inaccessible, asymétrique" » – Conclusions sur Conseil d’État, Section, 12 juin 2020, GISTI.
+Toutefois, une autre vision de la circulaire existe :
+« La circulaire n’en demeure pas moins un instrument indispensable de l’administration – au sens organique comme au sens fonctionnel du terme – car elle permet le pilotage rapide et unifié de services administratifs nombreux et répartis sur le territoire. » – Guillaume Odinet, conclusions précitées sur Conseil d’État, Section, 12 juin 2020, GISTI.
+ En vérité, sous des appellations diverses (circulaires, notes de service, instructions, etc.), les administrations communiquent avec leurs agents et les usagers pour exposer les principes d’une politique, fixer les règles de fonctionnement des services et commenter ou orienter l’application des lois et règlements.
+La dénomination de ces documents, qui suivent un régime juridique principalement déterminé par leur contenu, n’a, par elle-même, aucune incidence juridique : une « circulaire » n’a ni plus ni moins de valeur qu’une « note de service »
+Une circulaire n’est jamais une condition nécessaire à l’entrée en vigueur d’une loi ou d’un décret. L’administration n’est d’ailleurs pas tenue de prendre une circulaire — Conseil d’État, 8 décembre 2000, Syndicat Sud PTT ; Conseil d’État, 14 octobre 2020, Association pour une consommation éthique.
+
+ Les circulaires font l’objet de plusieurs classifications dont celles-ci :
+* circulaires réglementaires et circulaires purement interprétatives ;
+* circulaires impératives et circulaires non impératives
+
+Définition : Une circulaire revêt un caractère réglementaire lorsqu’elle fixe une règle nouvelle absente des dispositions des lois et règlements.
+
+Définition : Une circulaire revêt un caractère purement interprétatif lorsqu’elle se borne à indiquer le sens des dispositions des lois et règlements.
+
+Définition : Une circulaire revêt un caractère impératif lorsqu’en raison des termes employés par son auteur ses destinataires sont tenus d’appliquer ses dispositions.
+
+** 
+ii – L’obligation de publier deux types de circulaires
+ Question : Toutes les circulaires doivent-elles être publiées ? 
+ Réponse : Non. 
+Aux termes de l’article L. 312-2 du code des relations entre le public et l’administration (CRPA), l’autorité administrative a l’obligation de publier ses circulaires qui comportent
+- soit une interprétation du droit positif (lois et règlements),
+- soit une description des procédures administratives.
+La publication doit se faire selon des modalités fixées par décret, c’est-à-dire sur des supports précis : bulletins officiels, sites Web déterminés.
+ Question : Que se passe-t-il si l’autorité administrative ne procède pas à la publication adéquate des deux types de circulaires qu’elle a l’obligation de publier ? 
+ Réponse : Le défaut de publication tout comme la publication inadéquate de ces deux types de circulaires entraînent deux conséquences :
+1. Ces circulaires ne sont pas applicables, et leurs auteurs ne peuvent s'en prévaloir à l'égard des administrés ;
+2. Ces circulaires sont réputées abrogées dans un délai de quatre mois à compter de leur signature.   
+ Question : Que se passe-t-il si l’autorité administrative procède effectivement à la publication adéquate des deux types de circulaires qu’elle a l’obligation de publier ? 
+ Réponse : Aux termes des articles L. 312-3 et R312-7 du CRPA, la publication de ces deux types de circulaires entraîne deux conséquences :
+Ces deux types de circulaires deviennent invocables par l’administration, et donc opposables aux administrés. Autrement dit, l’administration pourra les appliquer aux administrés ;
+Ces deux types de circulaires deviennent invocables par les administrés, et donc opposables à l’administration. En effet, toute personne pourra se prévaloir de ces deux types de circulaires vis-à-vis de l’administration. Notamment, toute personne aura le droit de se prévaloir, vis-à-vis de l’administration, de l'interprétation d'une règle, même erronée, opérée par ces deux types de circulaires.
+**
+iii – L’évolution du champ des circulaires
+Une circulaire du Premier ministre en date du 5 juin 2019 a posé les règles suivantes : 
+Les circulaires de commentaire ou d’interprétation de la norme sont proscrites. 
+Elles doivent être remplacées par la mise à disposition d’une documentation, tenue à jour, sur les sites internet des ministères et des administrations. 
+Afin que cette pratique ne s’accompagne pas d’un recul des droits pour les administrés, les sites internet ministériels doivent contenir un sous-espace comportant les circulaires que l’administration accepte de rendre opposables. La liste des sites figurant à l’article D. 312-11 du code des relations entre le public et l’administration est, s’il y a lieu, actualisée ; 
+L’organisation et le fonctionnement de services territoriaux ne doivent plus faire l’objet de circulaires qu’à titre exceptionnel sur les priorités d’action du ministère. Elles sont personnellement signées par le ministre et adressées au Premier ministre et au secrétariat général du gouvernement qui peut refuser la mise en ligne ; 
+L’usage des circulaires est réservé à l’accompagnement, le suivi et l’exécution des réformes. Elles comportent à ces fins des objectifs, des indicateurs et des calendriers d’exécution. Ces circulaires, de par leur importance, doivent être signées des ministres ou des directeurs d’administration centrale.
+**
+b – Les lignes directrices (ex-directives)
+i – La définition des lignes directrices
+* Conseil d’État, Section, 11 décembre 1970, Crédit de Foncier de France c/ Delle Gaupillat et Dame Ader ;
+* Conseil d’État, Section, 4 février 2015, Ministre de l’Intérieur c. Cortes Ortiz.
+
+
+Définition : Une ligne directrice (ou directive) est un acte de portée générale par lequel une autorité disposant d’un pouvoir d’appréciation, en général dans un domaine où elle reçoit des demandes de décisions, se fixe à elle-même, ou indique à ses subordonnés une ligne de conduite dans l’exercice de ce pouvoir. 
+
+
+ Question : Quels sont l’objet et le but des lignes directrices ? 
+ Réponse synthétique : 
+* L’objet des lignes directrices : définir les orientations générales en vue de l’adoption de décisions individuelles, l’attitude à suivre en principe ainsi que les critères à mettre en œuvre normalement ;
+* Le but des lignes directrices : assurer une harmonisation des pratiques administratives et garantir le respect du principe d’égalité.
+ Réponse analytique : Voici une explication générique et deux illustrations.
+1. Dans une matière donnée, la loi ou le règlement attribuent à l’administration un pouvoir de décision à l’égard des administrés. 
+* Exemple : le pouvoir d’accorder ou de refuser des autorisations.
+ 2. En même temps, ni la loi, ni le règlement n’imposent de critères précis à l’administration ; ils lui laissent une marge certaine d’appréciation, de liberté, dans l’exercice de ce pouvoir. 
+On dit alors que l’administration dispose d’un pouvoir discrétionnaire.
+ 3. Cette liberté d’appréciation risque d’engendrer de l’incertitude chez les administrés, de la cacophonie dans les services administratifs et, en définitive, des discriminations inadmissibles dans le traitement des demandes.
+ 4. L’administration adopte donc et publie des « lignes directrices » (ex-directives), c’est-à-dire un document dans lequel elle porte à la connaissance de tous les intéressés les critères qu’elle entend mettre en œuvre dans l’exercice de son pouvoir de décision.
+L’administration fixe ainsi « des orientations générales en vue de l'exercice de son pouvoir ».
+
+La loi donne compétence au maire pour accorder ou refuser aux commerçants qui en font la demande l’autorisation d’occuper un emplacement de vente sur la place du Capitole.
+Toutefois, la loi n’indique pas les critères auxquels le maire doit se référer pour accorder ou refuser une telle autorisation.
+Le maire adopte un acte dénommé « lignes directrices ».
+Objet de ces « lignes directrices » : la fixation des critères auxquels les fonctionnaires municipaux de Toulouse doivent se référer pour accorder ou refuser l’autorisation d’occuper un emplacement de vente sur la place du Capitole.
+Buts poursuivis par l’auteur de ces « lignes directrices » :
+ - Assurer l’égalité de traitement des demandes d’autorisation ;
+ - Mettre les demandeurs à l’abri de l’incertitude ;
+ - Harmoniser le travail des fonctionnaires municipaux de Toulouse.
+**
+Exemple :
+Les arrêtés d’examen donnent compétence à vos enseignants pour noter vos copies d’examen de 0 à 20 (en principe).
+Toutefois, les arrêtés d’examen n’indiquent pas les critères précis auxquels vos enseignants doivent se référer pour noter vos copies d’examen de 0 à 20.
+Votre professeur X adopte un acte dénommé « grille de notation ». Il s’agit de « lignes directrices ».
+Objet de ces « lignes directrices » : fixation des critères précis auxquels les correcteurs doivent se référer pour noter vos copies d’examen de 0 à 20.
+Buts poursuivis par l’auteur de ces « lignes directrices » :
+ Assurer l’égalité de traitement des copies, donc des candidats ;
+ Mettre les candidats à l’abri de l’incertitude ;
+ Harmoniser le travail des différents correcteurs.
+** 
+ii – La légalité et l’application de lignes directrices
+
+
+
+1. Des lignes directrices ne doivent pas méconnaître les buts visés par la réglementation qu’elles aident à faire appliquer.
+2. Elles ne doivent pas violer des principes supérieurs en vigueur.
+3. Enfin, elles ne peuvent lier le pouvoir d’appréciation de l’autorité chargée, en les appliquant, de prendre les décisions individuelles. 
+Autrement dit, des lignes directrices ne doivent pas revêtir un caractère impératif qui obligerait l’administration à les appliquer sans exception.
+ Si elles satisfont à ces trois conditions, des lignes directrices sont 
+ - opposables aux administrés, donc invocables par l’administration,
+ - invocables par les administrés, donc opposables à l’administration.
+
+Illustration :
+1. En principe, l’administration est tenue d’appliquer, aux demandes qui lui sont adressées par les citoyens, les lignes directrices édictées à cet effet.
+2. Toutefois, elle ne doit pas appliquer ces lignes directrices à une demande lorsque l’un des trois cas suivants se présente :
+a. la situation de l’administré demandeur est suffisamment particulière (elle est différente de la grande masse des situations et demandes pour lesquelles les lignes directrices ont été adoptées) ;
+b. un texte normatif ou un principe fait obstacle à l’application des lignes directrices ;
+c. un motif d’intérêt général s’oppose à l’application des lignes directrices à une situation ou à une demande donnée.
+** 
+c – La recevabilité du recours pour excès de pouvoir contre les circulaires et les lignes directrices
+ En ce qui concerne la recevabilité du recours pour excès de pouvoir contre les circulaires et les lignes directrices, le Conseil d’État a adopté, durant les vingt dernières années, deux solutions dont la seconde amplifie ce qui était sous-jacent à la première. 
+1. Solution antérieure qui ne concernait que les circulaires :
+Conseil d’État, Section, 18 décembre 2002, Mme Duvignères.
+ Un recours pour excès de pouvoir exercé contre une circulaire impérative (ou contre les dispositions impératives à caractère général d’une circulaire) est recevable (si les autres conditions de recevabilité sont remplies : délai, etc.) ;
+ En revanche, un recours pour excès de pouvoir formé contre une circulaire non impérative (ou seulement contre les dispositions non impératives d’une circulaire) est irrecevable – Voir FOMBEUR (Pascale), Conclusions sur Conseil d’État, Section, 18 décembre 2002, Mme Duvignères.
+2. Solution actuelle qui concerne aussi bien les circulaires que les lignes directrices
+Conseil d’État, Section, 12 juin 2020, GISTI
+ Un recours pour excès de pouvoir exercé contre un acte de référence interne est recevable à une condition :
+ Que cet acte de référence interne soit « susceptible d'avoir des effets notables sur les droits ou la situation d'autres personnes que les agents chargés de l’appliquer ».
+ Remplissent cette condition, notamment :
+* les circulaires impératives
+* et toutes les lignes directrices.
+ Est donc recevable un recours pour excès de pouvoir exercé 
+* contre une circulaire impérative (mais pas contre les circulaires sans effets notables) 
+* ou contre des lignes directrices – Voir ODINET (Guillaume), Conclusions sur Conseil d’État, Section, 12 juin 2020, GISTI.
+Question : Importe-t-il de souligner la différence entre les deux affirmations suivantes :
+ Un recours pour excès de pouvoir exercé contre une circulaire C ou des lignes directrices L est recevable ou irrecevable ;
+ Un recours pour excès de pouvoir exercé contre une circulaire C ou des lignes directrices L est bien fondé ou mal fondé ?
+ Réponse : Dire que l’on forme un recours pour excès de pouvoir contre un acte X, cela revient à dire que l’on demande au juge d’annuler cet acte X parce qu’on l’estime illégal. C’est la définition même du recours pour excès de pouvoir que nous venons de rappeler.
+ Une fois en présence du recours pour excès de pouvoir que vous avez formé contre l’acte X, le juge se pose, dans l’ordre, deux questions : 
+1. votre recours est-il recevable ?  
+2. votre recours est-il bien fondé ? 
+ La première question peut recevoir l’une des deux réponses suivantes :
+1. Votre recours est irrecevable. Dans ce cas, moi, juge, je ne me poserai pas la seconde question, la procédure est terminée et vous êtes débouté ;
+2. Votre recours est recevable. Moi, juge, je suis alors en droit de me poser la seconde question, celle du bien-fondé de votre recours : est-ce que l’acte X est illégal et doit être annulé comme vous l’affirmez 
+ La seconde question, celle du bien-fondé du recours, correspond à la question de la légalité de l’acte X ; elle diffère, on l’a vu, de la question de la recevabilité du recours.    
+***/***
+    
 `;
 
 export const SYSTEM_INSTRUCTION = `
