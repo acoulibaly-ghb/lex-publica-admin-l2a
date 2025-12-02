@@ -124,7 +124,6 @@ const TextChat: React.FC = () => {
   const suggestions = [
     "Qu'est-ce qu'un service public ?",
     "L'arrêt Benjamin et la police administrative",
-    "Différence entre SPA et SPIC",
     "Définition d'un acte réglementaire"
   ];
 
