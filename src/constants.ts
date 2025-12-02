@@ -1,55 +1,6 @@
 
 export const KNOWLEDGE_BASE = `
---- DOCUMENT 1: LES ACTES ADMINISTRATIFS UNILATÉRAUX ---
-Définition: Un acte administratif unilatéral est un acte de droit public (non législatif et non juridictionnel) destiné à régir le comportement d’une ou plusieurs personnes qui, tantôt étrangères, tantôt associées à son édiction, n’en sont pas, juridiquement, les auteurs.
-Définition: Une décision administrative est un acte administratif unilatéral, qui affecte l’ordonnancement juridique.
-Définition: L’ordonnancement juridique, c’est l'ensemble des règles de droit qui régissent un milieu social, et des situations juridiques dont sont titulaires les personnes.
-Définition: Affecter l’ordonnancement juridique, c’est soit modifier l’ordonnancement juridique, soit réaffirmer le contenu de l’ordonnancement juridique. 
-Définition: Une décision explicite (ou expresse) est une décision prise expressément, (c’est-à-dire en s’exprimant), par l’administration.
-Définition: Une décision implicite est une décision qu’un texte normatif déduit du silence gardé, pendant un certain temps, par l’autorité administrative saisie d’une demande.
-Circulaires: Acte de portée générale adressé par un chef de service aux agents. Distinction impérative (recours recevable) / non impérative. Depuis 2020 (GISTI), recours recevable si "effets notables".
-Lignes directrices: Orientations générales pour l'exercice d'un pouvoir discrétionnaire. Opposables si publiées.
-Définition: Une circulaire est un acte de portée générale, adressé par un chef de service aux agents placés sous son autorité, à l’effet de leur indiquer la manière d’interpréter et d’appliquer les dispositions des lois et règlements, ainsi que d’assurer l’organisation et le fonctionnement du service.
-Définition: Une circulaire revêt un caractère réglementaire, lorsqu’elle fixe une règle nouvelle absente des dispositions des lois et règlements.
-Définition: Une circulaire revêt un caractère impératif, lorsqu’en raison des termes employés par son auteur, ses destinataires sont tenus d’appliquer ses dispositions.
-Définition: Une circulaire revêt un caractère purement interprétatif, lorsqu’elle se borne à indiquer le sens des dispositions des lois et règlements.
-Définition: On appelle « lignes directrices » un acte de portée générale, par lequel une autorité, disposant d’un pouvoir d’appréciation, en général dans un domaine où elle reçoit des demandes de décisions, se fixe à elle-même, ou indique à ses subordonnés une ligne de conduite dans l’exercice de ce pouvoir.
-Définition: Un acte administratif individuel est un acte administratif unilatéral, qui a pour destinataires, une ou plusieurs personnes, qu’il désigne nommément ou nominativement.
-Définition: Un acte administratif réglementaire est un acte administratif unilatéral, qui a pour destinataires une ou plusieurs personnes, qu’il désigne abstraitement, ou qu’il ne désigne pas explicitement.
-Distinction Acte réglementaire / individuel:
-- Acte réglementaire: désigne abstraitement ses destinataires (impersonnel). Doit être publié.
-- Acte individuel: désigne nommément ses destinataires. Doit être notifié.
-Recours:
-- Voie d'action (recours pour excès de pouvoir): dans les 2 mois suivant publication/notification.
-- Voie d'exception (exception d'illégalité): perpétuelle pour les actes réglementaires, limitée au délai de recours pour les actes non réglementaires.
-Décisions:
-- Explicite: Écrite (Visas, Dispositif, Signature).
-- Implicite: Silence gardé par l'administration. Depuis 2013 (loi du 12 nov), le silence vaut acceptation (SVA) au bout de 2 mois, sauf exceptions (ex: demande financière, réclamation, etc. où silence vaut rejet).
-
---- DOCUMENT 2: LA POLICE ADMINISTRATIVE ---
-Définition: Activité visant à assurer le maintien de l'ordre public, sans tendre à la recherche d'infraction pénale.
-Buts (Ordre Public):
-1. Sécurité publique
-2. Tranquillité publique
-3. Salubrité publique
-4. Respect de la dignité de la personne humaine (depuis arrêt Morsang-sur-Orge 1995, lancer de nain). La moralité publique seule ne suffit plus (sauf polices spéciales).
-Distinction Police Administrative (PA) / Judiciaire (PJ):
-- PA: Préventive (ou rétablissement ordre). Juge administratif.
-- PJ: Répressive (constat infraction, recherche auteurs). Juge judiciaire.
-Critère finaliste (Baud / Noualek 1951).
-Autorités PA Générale:
-- Premier ministre (au niveau national, arrêt Labonne 1919).
-- Maire (commune).
-- Préfet (département, ou substitution au maire en cas de carence).
-- Président du Conseil départemental (domaine départemental).
-Contrôle des mesures (Triple test de proportionnalité - arrêt Benjamin 1933):
-La mesure doit être:
-1. Nécessaire
-2. Adaptée
-3. Proportionnée
-Périodes exceptionnelles: État de siège, État d'urgence (sécuritaire ou sanitaire), Théorie des circonstances exceptionnelles (Dames Dol et Laurent 1919).
-
---- DOCUMENT 3: LE SERVICE PUBLIC ---
+--- DOCUMENT 1: LE SERVICE PUBLIC ---
 SECTION I
 LA FONCTION DE PRESTATION : LE SERVICE PUBLIC
 
@@ -169,12 +120,9 @@ Voir, par exemple, Bernard Stirn, « Le service public dans la jurisprudence du 
 
 Nota bene :  Le premier critère (le caractère d’intérêt général) étant essentiellement subjectif, on comprendra que le périmètre du service public varie d’une époque à une autre.
  Illustrations : 
-   Après avoir estimé que l’exploitation d’un théâtre n’était pas un service public (Conseil d’État, 7 avril 1916, Astruc et Société du théâtre des Champs-Élysées), le Conseil d’État a soutenu le contraire sept ans plus tard (Conseil d’État, 27 juillet 1923, Gheusi)
-   Alors que la Loterie nationale était un service public (Conseil d’État, 17 décembre 1948, Angrand), tel n’est pas le cas de la Française des Jeux (Conseil d’État, 27 octobre 1999, Rolin).
+  a. Après avoir estimé que l’exploitation d’un théâtre n’était pas un service public (Conseil d’État, 7 avril 1916, Astruc et Société du théâtre des Champs-Élysées), le Conseil d’État a soutenu le contraire sept ans plus tard (Conseil d’État, 27 juillet 1923, Gheusi)
+  b. Alors que la Loterie nationale était un service public (Conseil d’État, 17 décembre 1948, Angrand), tel n’est pas le cas de la Française des Jeux (Conseil d’État, 27 octobre 1999, Rolin).
 
-
-
-*
 1 – Premier critère : le caractère d’intérêt général de l’activité à qualifier
  Pour qu’une activité soit reconnue comme un service public, il faut tout d’abord qu’elle réponde à un besoin d’intérêt général. 
 La définition de l’intérêt général n’est toutefois pas une entreprise aisée. Jacques-Henri Stahl, conseiller d’État, observe à juste titre : 
@@ -543,12 +491,9 @@ Définition : Le principe de continuité du service public, c’est le principe 
 
 La nécessité de concilier le principe de continuité avec le droit de grève :
 
-
 Définition : La grève est une cessation collective et concertée du travail destinée à appuyer des revendications d’ordre professionnel.
 
-*
 Signalons, en passant, que le mot de « grève » a pour origine le nom de la place de Grève à Paris (actuelle place de l’Hôtel-de-Ville), où avaient pris de se regrouper, au XIXe siècle, les ouvriers en quête… d’emploi.
-*
 
  Le Conseil d’État présente la nécessité de concilier le droit de grève avec la continuité du service public dans les termes suivants :  
 Si le principe de continuité du service public « a le caractère d'un principe de valeur constitutionnelle, il en va de même pour le droit de grève ». 
@@ -698,8 +643,547 @@ Les « discriminations positives » sont également interdites lors du recruteme
 « [Le] principe de l'égal accès des citoyens aux emplois publics, proclamé par l'article 6 précité de la Déclaration de 1789, impose que, dans les nominations de fonctionnaires [ou d’agents publics en général], il ne soit tenu compte que de la capacité, des vertus et des talents […] » - Décision n° 82-153 DC du 14 janvier 1983, Loi relative au statut général des fonctionnaires.
  Le Conseil d’État suit exactement la même ligne jurisprudentielle que le Conseil constitutionnel : seule la capacité des candidats peut constituer un critère de sélection à l’entrée dans la fonction publique, à l’exclusion de tous autres critères. 
 Aussi, la Haute juridiction administrative censure-t-elle, pour l’accès aux emplois publics, tout système de sélection utilisant des considérations d’ordre social, familial, géographique ou autre, qui sont étrangères à la capacité des candidats et donc contraire aux exigences de l’article 6 de la Déclaration de 1789 : Conseil d’État, 14 février 1990, Fédération syndicaliste FO de la Défense.    
-
 ***/***
+--- DOCUMENT 2: LA POLICE ADMINISTRATIVE ---
+SECTION II
+LA FONCTION NORMATIVE : LA POLICE ADMINISTRATIVE
+
+Définition : La police administrative est une activité qui vise à assurer le maintien de l'ordre public, sans tendre à la recherche ou à l'arrestation des auteurs d'une infraction déterminée.
+
+Définition : La police judiciaire, c'est une activité qui consiste à constater les infractions à la loi pénale, à en rassembler les preuves et en rechercher les auteurs.
+
+Définition : Il y a concours (rencontre) des pouvoirs de police administrative lorsque différentes autorités prennent des mesures de police administrative relativement aux mêmes circonstances de fait. 
+
+Définition : L’état de siège, c’est un régime exceptionnel de police déclaré « en cas de péril imminent, résultant d’une guerre étrangère ou d’une insurrection armée »
+
+Définition : L’état d’urgence sécuritaire, c’est un régime exceptionnel de police déclaré « soit en cas de péril imminent résultant d'atteintes graves à l'ordre public, soit en cas d'événements présentant, par leur nature et leur gravité, le caractère de calamité publique ».
+
+Définition : L’état d’urgence sanitaire, c’est un régime exceptionnel de police déclaré « en cas de catastrophe sanitaire mettant en péril, par sa nature et sa gravité, la santé de la population »
+
+Définition : Le plan Vigipirate est un dispositif d’alerte et de prévention qui vise à assurer la protection de la population et des sites sensibles dans un contexte de menace terroriste effective ou imminente.
+
+Rappelons que, selon Charles Eisenmann, l'administration remplit deux fonctions sociales majeures : 
+1. Une fonction de prestation. Elle consiste à fournir aux administrés des prestations, c'est-à-dire des biens et des services - distribution d'eau, d'électricité, de gaz, enseignement, enlèvement et traitement des ordures ménagères… Bref à rendre service. L’expression « fonction de prestation » caractérise l'activité de service public (SECTION I) ;  
+  2. Une fonction normative. Elle consiste à édicter des règles, des normes. Ces règles déterminent ce que doit être le comportement des administrés : obligation de porter un masque, limitation de vitesse, interdiction de projeter un film ou d'organiser une manifestation… L’expression « fonction normative » caractérise l'activité de police administrative (SECTION II).
+
+
+ La distinction de Charles Eisenmann a le mérite de la clarté. Mais elle pêche par son manichéisme conceptuel. 
+ Les deux fonctions sont, en fait, étroitement liées.  
+ La fonction de prestation est remplie dans le cadre d'une réglementation. 
+      Exemple : les universités. Les usagers y bénéficient de prestations (enseignement, évidemment), tout en étant tenus au respect de certaines règles – pas toujours écrites d’ailleurs. 
+ Inversement, la fonction normative n'exclut pas la fourniture de prestations. La police administrative apparaît aussi comme un service public.
+ On ne peut retenir qu’une version revue et corrigée de la distinction : certaines activités administratives sont principalement des activités de prestation (SECTION I), d'autres principalement des activités normatives (SECTION II).
+*
+
+
+
+
+
+Premièrement, contrairement à la plupart des autres services publics, le service public de la police ne peut être délégué purement et simplement à une personne privée – Conseil d’État, assemblée, 17 juin 1932, Ville de Castelnaudary.  
+* Exemple 1 : Conseil d’État, section, 23 mai 1958, Consorts Amoudruz, Rec. p. 301. Une commune a concédé à une personne privée l’exploitation d’une plage publique ; mais, selon le juge, cette commune reste responsable de la sécurité des baigneurs (mission de police administrative).
+Deuxièmement, l’administration ne peut, en principe, exiger des bénéficiaires du service public de la police le paiement d’une redevance. Motif : le service public de la police est financé par l’impôt ; il s’ensuit qu’il est en principe gratuit pour l’usager.
+
+
+
+        I – L'identification de la police administrative
+ D’un strict point de vue sémantique, la police administrative se prête à deux approches :  
+  1. Une approche organique, adoptée par le grand public dans des assertions bien connues : « J’ai appelé la police » ; « la police l’a secourue » ; « la police a dispersé les manifestants » ; « la police est arrivée à temps », etc. On l’aura compris, l’approche organique consiste à entendre par police des femmes et des hommes chargés de missions de sécurité, souvent en uniforme, parfois en tenue civile ;  
+  2. Une approche fonctionnelle : la police administrative désigne des activités, des missions, des fonctions liées à la sécurité, plus précisément à l’ordre public. 
+ C’est la seconde approche (fonctionnelle) qui sera retenue dans ce cours, moyennant des précisions d’importance : Qu’est-ce que l’ordre public  Quel lien entre police et ordre public  S’agit-il d’un lien exclusif 
+ Sommaire de cette première partie du cours
+A – La définition téléologique de la police administrative	10
+B – La distinction police administrative – police judiciaire	17
+
+	
+	*
+      A – La définition téléologique de la police administrative
+ Voici la définition retenue dans ce cours : 
+
+  Définition : La police administrative est une activité qui vise à assurer le maintien de l'ordre public, sans tendre à la recherche ou à l'arrestation des auteurs d'une infraction déterminée.
+
+ Cette définition diffère significativement de celle de la police judiciaire qui est basée sur l’article 14 du code de procédure pénale.
+Définition de la police judiciaire :
+La police judiciaire, c'est une activité qui consiste à constater les infractions à la loi pénale, à en rassembler les preuves et en rechercher les auteurs.
+ La définition de la police administrative est dite téléologique pour la raison suivante :
+ Elle caractérise la police administrative par son but (téléologique, teleos = but). 
+Et ce but, c'est le maintien de l'ordre public. 
+ Selon le Conseil constitutionnel, la sauvegarde de l’ordre public constitue un objectif de valeur constitutionnelle – Décision du 28 juillet 1989, Loi relative aux conditions de séjour et d’entrée des étrangers en France.
+À l’analyse, l’ordre public comprend plusieurs éléments qui se présentent comme autant de buts de police administrative. 
+En effet, somme toute, la police administrative consiste à assurer préventivement le respect de l’ordre public ou à le rétablir par des mesures non répressives.
+Sommaire de cette sous-partie I – A
+1 – Les buts principaux de la police administrative : sécurité, tranquillité et salubrité publiques	11
+2 – Les buts secondaires de la police administrative	11
+a – L’exclusion tacite de la moralité publique en tant que telle	11
+b – L’admission expresse du respect de la dignité de la personne humaine	13
+ Conclusion sur la définition de la police administrative	15
+ En définitive, voici le contenu de l’ordre public :	15
+ Comment définir la police administrative lors d’une épreuve écrite ou orale d’examen :	
+
+1 – Les buts principaux de la police administrative : sécurité, tranquillité et salubrité publiques 
+ De quoi se compose l’ordre public dont, rappelons-le, le maintien ou le rétablissement constitue la finalité de la police administrative  
+Des éléments de réponse sont fournis par l’article L. 2212-2 du code général des collectivités territoriales (un article qui reprend largement les dispositions de l’article 3 du décret de l’Assemblée constituante des 16-17 août 1790) :
+« La police […] a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. 
+Elle comprend notamment : 
+Le soin de réprimer les atteintes à la tranquillité publique… etc. »
+Suit une assez longue énumération de circonstances où la police administrative trouve à s’appliquer.
+ De cet article L2212-2 du CGCT (code général des collectivités territoriales) la doctrine déduit, à la suite d’une exégèse sans doute un peu rapide, que l’ordre public a pour composantes :
+• la sécurité publique,
+• la tranquillité publique,
+• la salubrité publique.
+Personne ne conteste que l'ordre public comprenne ces trois éléments. La doctrine admet unanimement qu'ils constituent des buts de police administrative. C'est du reste ce que l'on appelle la trilogie classique, la trilogie traditionnelle, objective.
+ L'ordre public comprend-il d'autres éléments 
+**
+2 – Les buts secondaires de la police administrative
+a – L’exclusion tacite de la moralité publique en tant que telle
+ La moralité publique est-elle une composante de l’ordre public 
+Cette question, à la fois factuelle et juridique, divise depuis plus d’un siècle aussi bien la doctrine que, sans doute, au sein des juridictions administratives, les commissaires du gouvernement devenus rapporteurs publics en 2009.
+Oui ou non. Deux réponses, deux camps.
+ Les auteurs opposés à l’inclusion de la moralité publique dans l’ordre public invoquent traditionnellement les mots bien connus du Doyen Maurice Hauriou de l’École de Toulouse :
+« L'ordre public, au sens de la police, est l'ordre matériel et extérieur. La police n’essaie point d'atteindre les causes profondes du mal social, elle se contente de rétablir l'ordre matériel. En d'autres termes, elle ne poursuit pas l’ordre moral dans les idées. » — Maurice Hauriou, Précis de droit administratif, Sirey, 1927, p. 445.
+ Dans le camp d’en face, il est soutenu que l’inclusion de la moralité publique dans l’ordre public s’est déjà produite en jurisprudence. Il suffit donc d’en prendre acte, à l’instar du commissaire du gouvernement Patrick Frydman :
+« Il est clair que, bien qu’elle ne soit pas formellement comprise dans la trilogie traditionnelle définissant l'objet de la police municipale—à savoir sécurité, tranquillité et salubrité publiques—, la moralité publique constitue bien également, selon votre jurisprudence, un des buts en vue desquels cette police peut trouver à s'exercer. » — Conclusions sur Conseil d’État, ass., 27 octobre 1995, Commune de Morsang-sur-Orge.
+Pour entrer correctement dans ce débat et éviter le piège de l’argument d’autorité, il importe de partir du point de clivage qui traverse depuis toujours la police administrative :
+ - d’un côté, la police administrative dite générale,
+ - de l’autre, les polices administratives dites spéciales.
+La police administrative générale vise à assurer la protection de l’ordre public sur un territoire donné, tandis que les polices administratives spéciales ont un champ plus spécifique.
+Cette distinction sur laquelle nous reviendrons plus loin permet de répondre correctement à la question sur l’inclusion de la moralité publique.
+ Oui, la moralité publique, en tant que telle, est parfois un but de police administrative spéciale.
+ Exemple : Le code de la santé publique investit le préfet, représentant de l'État dans le département, de la police administrative spéciale des débits de boissons et des restaurants. L’article L.3332-15 du même code dispose : 
+« 1. La fermeture des débits de boissons et des restaurants peut être ordonnée par le représentant de l'État dans le département pour une durée n'excédant pas six mois, à la suite d'infractions aux lois et règlements relatifs à ces établissements.
+Cette fermeture doit être précédée d'un avertissement qui peut, le cas échéant, s'y substituer, lorsque les faits susceptibles de justifier cette fermeture résultent d'une défaillance exceptionnelle de l'exploitant ou à laquelle il lui est aisé de remédier.
+2. En cas d'atteinte à l'ordre public, à la santé, à la tranquillité ou à la moralité publiques, la fermeture peut être ordonnée par le représentant de l'État dans le département pour une durée n'excédant pas deux mois. »
+
+On aura noté la mention expresse de la moralité publique dans le texte ci-dessus.
+ En revanche, s’agissant de la police administrative générale, objet principal de ce cours, la moralité publique en tant que telle n’est plus incluse dans l’ordre public. 
+Certes, par le passé, des arrêts ont pu prendre en considération des motifs teintés de connotations morales.
+ Exemple souvent cité : Conseil d’État, section, 18 décembre 1959, Société « Les Films Lutetia ».
+Passage pertinent de cet arrêt :
+« Un maire, responsable du maintien de l’ordre dans sa commune, peut donc interdire sur le territoire de celle-ci la représentation d’un film auquel le visa ministériel d’exploitation a été accordé mais dont la projection est susceptible d’entraîner des troubles sérieux ou d’être, en raison du caractère immoral dudit film et de circonstances locales, préjudiciable à l’ordre public. »
+ Commentaire de Xavier de Lesquen, rapporteur public au Conseil d’État :
+« La principale originalité de la décision "Les films Lutétia" tient à l’intrusion de la moralité dans l’exercice de la police administrative et qu’à ce titre, la décision a acquis un caractère exceptionnel lié au contexte de l’époque. Nous rejoignons là l’opinion exprimée par les présidents Combarnous et Galabert dans leur chronique à l’AJDA : "On ne peut se dissimuler que l’arrêt est, dans une certaine mesure, un arrêt d’espèce." »
+ Ajoutons que l’arrêt "Les films Lutétia" a été rendu sur les conclusions contraires du commissaire du gouvernement Henri Mayras, qui disait : « Si la police administrative se définit par son but, le maintien de l'ordre public, il ne s'agit [...] que de l'ordre "matériel et extérieur" ; l'autorité de police ne peut prévenir les désordres moraux sans porter atteinte à la liberté de conscience ».
+ Il convient également de souligner ceci : La dernière fois que le Conseil d’État a retenu expressis verbis la moralité publique comme but de police administrative générale, c’était en 1953 : CE, 13 février 1953, Sieur Hubert de Ternay.
+ Depuis, rien d’aussi manifeste, même si l’on peut relever ici et là des indices incitant à penser que les préoccupations d’ordre moral ne sont pas totalement absentes de la jurisprudence.
+En définitive, il est légitime de soutenir que la moralité publique en tant que telle n’est plus une composante de l’ordre public au sens de la police administrative générale (définie plus haut).
+Une autre composante, à connotation morale, a fait son apparition : le respect de la dignité de la personne humaine.
+**
+b – L’admission expresse du respect de la dignité de la personne humaine
+ À n’en pas douter, le respect de la dignité de la personne humaine est la dernière-née des composantes de l’ordre public.
+On peut parler de reconnaissance en deux temps.
+Le Conseil constitutionnel reconnaît « le principe constitutionnel de sauvegarde de la dignité humaine contre toute forme d'asservissement et de dégradation » – Décision du 27 juillet 1994, Loi relative au respect du corps humain et loi relative au don et à l’utilisation des éléments et produits du corps humain, à l’assistance médicale à la procréation et au diagnostic prénatal.
+Le Conseil d’État admet expressément que le respect de la dignité de la personne humaine fait partie de l’ordre public.
+Conseil d’État, assemblée, 27 octobre 1995, Commune de Morsang-sur-Orge :
+Affaires relatives au spectacle dénommé « le lancer de nain » :
+Question posée au Conseil d’État : Un maire a-t-il le droit d'interdire l'attraction dénommée « lancer de nain » et qui consiste à faire lancer un nain par des spectateurs ? 
+Réponse du Conseil d’État : Un maire a le droit d'interdire un tel spectacle.
+Raisonnement du Conseil d’État - éclairé, justement, par les conclusions de Patrick Frydman citées plus haut :
+* « Le respect de la dignité de la personne humaine est une des composantes de l'ordre public » ;
+* L’attraction de "lancer de nain" consistant à faire lancer un nain par des spectateurs conduit à utiliser comme un projectile une personne affectée d'un handicap physique et présentée comme telle ; 
+* Par son objet même, une telle attraction porte atteinte à la dignité de la personne humaine ; 
+* L'autorité investie du pouvoir de police municipale pouvait, dès lors, l'interdire même en l'absence de circonstances locales particulières et alors même que des mesures de protection avaient été prises pour assurer la sécurité de la personne en cause et que celle-ci se prêtait librement à cette exhibition, contre rémunération.
+ Le respect de la dignité de la personne humaine, composante de l’ordre public, est également au cœur d’une autre affaire qui a défrayé la chronique.
+Conseil d’État, Juge des référés, 9 janvier 2014, Ministre de l’intérieur :
+Affaire Dieudonné :
+Le Conseil d’État reconnaît aux préfets et aux maires le droit d’interdire le spectacle dénommé « Le mur ».
+Motif : Les propos antisémites qui y sont tenus portent atteinte au respect de la dignité de la personne humaine.
+Qui plus est, ils tombent sous le coup de la loi pénale.
+Plus récemment, l’atteinte au respect de la dignité de la personne humaine a justifié l’interdiction
+ - de la tenue d’une conférence organisée par l'association " Les Profs Sudio " sur le territoire de la commune de Brétigny-sur-Orge : Conseil d’État, réf., 4 mars 2023, Mme C... c/commune de Brétigny-sur-Orge ; 
+ - d’une représentation à Paris, dans les Hauts-de-Seine, en Seine-Saint-Denis et dans le Val-de-Marne, du 26 juin au 31 juillet 2025 : Conseil d’État, réf., 4 juillet 2025, M. B...
+Le respect de la dignité de la personne humaine, dernière composante de l’ordre public, comporte évidemment une dimension morale, mais ce n’est assurément pas « La Moralité publique », laquelle est plus insaisissable parce qu’éminemment variable. 
+**
+ Conclusion sur la définition de la police administrative
+
+ En définitive, voici le contenu de l’ordre public : la sécurité publique, la tranquillité publique, la salubrité publique et le respect de la dignité de la personne humaine.
+
+Nota bene : Tacitement exclue de l’ordre public au sens de la police administrative générale, la moralité publique, en tant que telle, est parfois un but de police administrative spéciale. Exemple : La police spéciale des débits de boissons et des restaurants (code de la santé publique, article L.3332-15). 
+**
+*
+ Comment définir la police administrative lors d’une épreuve écrite ou orale d’examen :
+
+1. Vous écrivez ou vous dites : « La police administrative est une activité qui vise à assurer le maintien de l'ordre public, sans tendre à la recherche ou à l'arrestation des auteurs d'une infraction déterminée.»
+2. Puis, vous ajoutez : « Et l’ordre public comprend :
+- la sécurité publique,
+- la tranquillité publique,
+- la salubrité publique 
+- et le respect de la dignité de la personne humaine. »
+
+
+B – La distinction « police administrative – police judiciaire »
+
+1 – L’intérêt juridique de la distinction : droit applicable, juge compétent, imputation et procédure
+ L’intérêt juridique de la distinction « police administrative – police judiciaire » est… triple.
+
+1er intérêt : le droit applicable et le juge compétent :
+
+- Les litiges liés aux activités de police administrative relèvent du droit administratif et du juge administratif.
+
+- Les litiges liés aux activités de police judiciaire relèvent du droit privé et du juge judiciaire.
+Droit applicable et juge compétent : Sur ces deux points, la distinction police administrative — police judiciaire n’est pas sans rappeler la distinction service public à caractère administratif — service public à caractère industriel et commercial (Voir cours sur le service public).  
+
+2e intérêt : l’imputation :
+
+- La police administrative est exercée, selon les cas, au nom de l’État, de la commune ou du département (mais pas de la région, qui n’a pas de pouvoirs de police !).
+
+- La police judiciaire est toujours exercée au nom de l’État.
+
+3e intérêt : la procédure :
+Chacun des deux types de police est exercé selon une procédure qui lui est propre.
+
+**
+
+2 – Le critère juridique de la distinction
+ Question : Qu’est-ce qui distingue juridiquement une opération de police administrative d’une opération de police judiciaire ? 
+ Réponse : Le critère juridique de la distinction « police administrative – police judiciaire » a été énoncé en 1951 dans deux arrêts dont le premier émane du Conseil d’État, le second du Tribunal des conflits :
+
+1. Conseil d’État, section, 11 mai 1951, Consorts Baud. En l’espèce, une personne a été mortellement blessée « au cours d'une opération de police que des inspecteurs de police accomplissaient à Lyon le 31 octobre 1945, en vue d'appréhender des individus signalés comme faisant partie d'une bande de malfaiteurs » – police judiciaire ; 
+
+2. Tribunal des conflits, 7 juin 1951, Dame Noualek. Une personne qui « se trouvait ... à la fenêtre de son appartement, à Montferrand, a été blessée à la main droite » au cours d’une opération qui n’avait pas pour objet « la recherche d'un délit ou d'un crime déterminé » – police administrative.   
+ Il résulte de ces deux arrêts (Consorts Baud et Dame Noualek) que le critère juridique de la distinction « police administrative – police judiciaire » est téléologique (ou « finaliste »), c’est-à-dire en rapport avec le but, la finalité de l’activité considérée.
+ Pour qualifier une opération donnée d’activité de police judiciaire ou de police administrative, il faut la considérer dans sa relation à une infraction déterminée. 
+ Si l’opération consiste à constater une infraction déterminée, à en rechercher ou à en arrêter l’auteur ou les auteurs, il s’agit d’une opération de police judiciaire. 
+ Dans le cas contraire, on a affaire à une opération de police administrative. 
+ Question : Que faut-il entendre par « infraction déterminée » ? 
+ Réponse : Par « infraction déterminée », il faut entendre une infraction correspondant à une qualification pénale précise : homicide volontaire ou involontaire, vol simple ou aggravé, extorsion, etc.
+ Toutefois, infraction déterminée ne signifie pas nécessairement infraction déjà commise ou consommée. 
+ Ce peut être une infraction sur le point d’être commise.
+Exemple : Tribunal des conflits, 27 juin 1955, Dame Barbier. 
+La police apprend que des individus vont commettre un cambriolage. La décision est prise de leur tendre un piège (une « souricière »). Cette décision, comme l’organisation du piège, relève d’une procédure de police judiciaire, et ce, même si les malfaiteurs renoncent finalement à leur entreprise - le vol étant… une infraction déterminée.   
+ Parfois, il s’agit même d’une infraction imaginaire ou hypothétique.  
+Exemple : Un gendarme ou un fonctionnaire de police procède à l’arrestation d’un individu.
+Motif : Le gendarme ou le fonctionnaire de police croit que l’individu vient de commettre un vol. 
+Suites : Il s’avère que l’individu n’a pas commis de vol.
+Conséquences : L’arrestation de l’individu est considérée comme une opération de police judiciaire, alors même que l’infraction est purement imaginaire. 
+Entre parenthèses, le gendarme ou le fonctionnaire de police encourt une sanction disciplinaire, mais là n’est pas la question dans un cours où l’on ne se préoccupe que du fait de savoir si on a affaire à une opération de police administrative ou de police judiciaire.
+*
+ Question : Pourquoi ne pas avoir fondé sur un critère organique la distinction « police administrative – police judiciaire » ?  
+ Réponse : Premièrement, parce que le juge ne le fait pas (Voir plus haut les arrêts Conseil d’État, section, 11 mai 1951, Consorts Baud et Tribunal des conflits, 7 juin 1951, Dame Noualek). 
+Deuxièmement, parce que, bien souvent, les mêmes organes, les mêmes personnels (policiers ou gendarmes) agissent tantôt dans le cadre de la police administrative, tantôt dans le cadre de la police judiciaire. Bien entendu, cela n’exclut pas quelques cas de spécialisation : on n’imagine guère le RAID, le GIGN ou les BAC faire de la police administrative.
+ Question : La police administrative est-elle préventive ou répressive ? 
+ Réponse : Les deux ! La police administrative remplit tour à tour
+1. Une fonction préventive, essentiellement, lorsqu’elle écarte une menace pesant sur l’ordre public (qui n’est donc pas encore troublé),
+2. Une fonction répressive (pas au sens pénal) lorsqu’un trouble à l’ordre public étant caractérisé, elle intervient pour y mettre un terme. 
+ Question : Comment qualifier une activité de police qui tend à la recherche ou à l'arrestation des auteurs d'une infraction déterminée ? 
+ Réponse : D’activité de police judiciaire, bien sûr. Relisez la définition de la police administrative : Une activité qui vise à assurer le maintien de l'ordre public, sans tendre à la recherche ou à l'arrestation des auteurs d'une infraction déterminée.
+**
+3 – Le mélange occasionnel des genres
+ Par « mélange occasionnel des genres » il faut entendre les cas où une opération de police administrative et une opération de police  
+* soit se trouvent imbriquées
+* soit se succèdent sans délai, c’est-à-dire sans solution de continuité apparente.
+Une opération de police judiciaire peut déboucher sur une opération de police administrative.
+* Exemple : Conseil d’État, 18 mars 1981, Consorts Ferran. 
+L’espèce concerne l’enlèvement et la mise en fourrière d’un véhicule en stationnement irrégulier. 
+L’enlèvement du véhicule procède d’une opération de police judiciaire, car il fait suite à une infraction commise par la personne qui le conduisait. 
+En revanche, la mise en fourrière qui survient après l’enlèvement est une opération de police administrative.
+
+Une opération de police administrative peut déboucher sur une opération de police judiciaire.
+* Exemple : Tribunal des conflits, 12 juin 1978, Société le Profil c/ Ministre de l’Intérieur :
+Une caissière est escortée par des gardiens de la paix. 
+La mission de ces derniers qui n’est en rapport avec aucune infraction déterminée, est une mission de surveillance et de protection, donc une opération de police administrative. 
+Un hold-up a lieu, dirigé contre la caissière. 
+La mission de police administrative des gardiens de la paix se transforme en opération de police judiciaire, car le hold-up est juridiquement parlant, un vol, donc une infraction déterminée.
+*
+ Question : Dans ces hypothèses d’imbrication de la police administrative et de la police judiciaire, quels sont, en cas de préjudice, le droit applicable et le juge compétent ? 
+ Réponse : Dans ces deux hypothèses, le droit applicable et le juge compétent sont identifiés en déterminant l’opération qui est essentiellement à l’origine du préjudice :
+1. Si le préjudice est dû essentiellement au dysfonctionnement de l’opération de police administrative, le litige relève du droit administratif et du juge administratif.
+2. Si le préjudice est dû essentiellement au dysfonctionnement de l’opération de police judiciaire, le litige relève du droit privé et du juge judiciaire.
+Il s’agit là de la solution en forme de distinction qui a été donnée par le Tribunal des conflits : Tribunal des conflits, 12 juin 1978, Société le Profil c/ Ministre de l’Intérieur.
+**
+4 – Police administrative, police judiciaire et normes constitutionnelles
+ La multiplication, compréhensible, des lois relatives à la sécurité a conduit le Conseil constitutionnel à formuler deux affirmations fortes : 
+
+1. La sauvegarde de l’ordre public constitue un objectif de valeur constitutionnelle – Décision du 28 juillet 1989, Loi relative aux conditions de séjour et d’entrée des étrangers en France ;
+
+2. La prévention d'atteintes à l'ordre public, notamment d'atteintes à la sécurité des personnes et des biens, et la recherche des auteurs d'infractions sont nécessaires à la sauvegarde de principes et droits à valeur constitutionnelle – Décision du 18 janvier 1995, Loi d’orientation et de programmation relative à la sécurité.
+**
+    II – La mise en œuvre de la police administrative 
+ Dans cette seconde partie du cours, nous nous évertuerons à répondre à deux questions dont l’importance se passe de démonstration :
+Qui détient des pouvoirs de police administrative générale ? (A)
+Comment le juge contrôle-t-il la légalité des mesures de police administrative ? (B)
+     A – La répartition des pouvoirs de police administrative 
+ Question : Quelles sont les autorités administratives qui détiennent des pouvoirs de police administrative ? 
+ Réponse : Si l'on vous pose cette question sans autre précision, vous devez répondre en distinguant les deux types de police administrative : la police administrative générale et les polices administratives spéciales.
+
+1 – La distinction police administrative générale – police administrative spéciale
+ Questions : Comment se définissent la police administrative générale et la police administrative spéciale ? Comment les différencier ? 
+ Réponse : Les épithètes « générale » et « spéciale » sont assez parlantes.
+
+L’activité de police administrative générale vise à assurer la protection de l’ordre public sur un territoire donné.
+
+L’activité de police administrative spéciale a, en revanche, un champ plus spécifique, 
+- soit parce qu’elle s’exerce en un lieu déterminé (exemples : police des marchés d’intérêt national, des gares ferroviaires, des aérodromes...), 
+- soit parce qu’elle concerne une activité particulière (exemple : police de la navigation aérienne), 
+- ou encore parce qu’elle tend à la protection d’un intérêt public spécifique (par exemple, la préservation des espèces s’agissant de la police de la chasse). 
+
+Quatre précisions de nature à battre en brèche bien des idées reçues :
+1. La liste des autorités de police administrative générale est catégoriellement courte : Premier ministre, préfets de département, maires et présidents de conseil départemental ;
+2. En revanche, il est improbable qu’ait jamais été établie une liste exhaustive des nombreuses autorités administratives investies de pouvoirs de police administrative spéciale ;
+3. Certaines autorités détiennent à la fois des pouvoirs de police administrative générale et des pouvoirs de police administrative spéciale :  Premier ministre, préfets de département, maires ;
+4. D’autres autorités disposent de pouvoirs de police administrative spéciale, mais sont dépourvues de pouvoirs de police administrative générale : ministre de l’Intérieur, ministre de la Culture, ministre de la Santé, etc. 
+***
+2 – Les autorités de police administrative générale 
+a – Le Premier ministre
+ Le Premier ministre se distingue à trois égards des autres titulaires de pouvoirs de police administrative générale : 
+Il dispose de pouvoirs de police administrative générale « en dehors de toute habilitation législative ». 
+ Ce principe a d’abord été affirmé par le Conseil d’État – Conseil d’État, 8 août 1919, Labonne. 
+Il a ensuite été reconnu par le Conseil constitutionnel : « L'article 34 de la Constitution n'a pas retiré au chef du Gouvernement les attributions de police générale qu'il exerçait antérieurement, en vertu de ses pouvoirs propres et en dehors de toute habilitation législative […] » – Décision du 20 février 1987, Nature juridique de dispositions du code rural et de divers textes relatifs à la protection de la nature.
+ 
+Le principe ainsi affirmé et reconnu signifie simplement que le Premier ministre ne tient pas ses pouvoirs de police administrative générale, non pas de la loi, mais de « ses pouvoirs propres ». Autrement dit, il s’agit de pouvoirs inhérents à sa qualité de chef de gouvernement. 
+Le Premier ministre a compétence pour prendre des mesures de police administrative applicables à l’ensemble du territoire national. Il lui est loisible d’habiliter les ministres à en assurer l’effectivité.
+Les mesures de police du Premier ministre sont édictées sous la forme d’actes administratifs unilatéraux dénommés décrets. 
+ « Décrets », tel est d’ailleurs, en principe, le nom donné aux actes administratifs unilatéraux pris par le Premier ministre ou par le Président de la République, et ce, quelle que soit la matière (police administrative ou non).
+
+ Contrairement à ce qu’il en est des pouvoirs de police du Premier ministre, la compétence des autres autorités de police administrative générale (maire, préfet, président de conseil départemental) est à la fois fondée sur des textes précis et limitée géographiquement.
+** 
+b – Le maire
+ En vertu de l’article L. 2212-2 (précité) du code général des collectivités territoriales (CGCT), le maire a compétence pour veiller au maintien de l’ordre public sur le territoire de sa commune. 
+Le maire assure la police de la circulation 
+* d’une part, sur les voies communales (à l’intérieur comme à l’extérieur de son agglomération, la commune étant normalement plus vaste que l’agglomération, qu’elle englobe) 
+* et, d’autre part, sur les portions de routes nationales et départementales situées à l’intérieur de son agglomération (Voir CGCT). 
+ Dans les communes où est présente la police nationale (c’est-à-dire où la police nationale est compétente), les attributions de police du maire sont amputées au profit du préfet – Cf. infra, p. 26, Le préfet. 
+ À Paris, il y a partage des pouvoirs de police entre le préfet de police2et le maire, de dernier étant « seulement » chargé des aspects les moins considérables de l’ordre public tels que la salubrité publique et les bruits de voisinage.
+ Les mesures de police du maire sont édictées sous la forme d’actes administratifs unilatéraux dénommés « arrêtés ».  
+ « Arrêtés », tel est d’ailleurs en principe le nom donné aux actes administratifs unilatéraux pris par toutes les autorités administratives autres que le Président de la République et le Premier ministre, et ce, quelle que soit la matière (police administrative ou non).
+**  
+c – Le président du conseil départemental
+Sur le fondement de l’article L. 3221-4 du CGCT, le président du conseil départemental exerce les pouvoirs de police afférents à la gestion du domaine départemental.
+Il assure notamment la police de la circulation sur les routes départementales hors agglomérations.
+ Les mesures de police du président du conseil départemental sont édictées sous la forme d’actes administratifs unilatéraux dénommés « arrêtés ». 
+ « Arrêtés », tel est en principe, rappelons-le, le nom donné aux actes administratifs unilatéraux pris par toutes les autorités administratives autres que le Président de la République et le Premier ministre, et ce quelle que soit la matière (police administrative ou non).
+** 
+d – Le préfet de département
+ Au nom de l’État, il exerce la police de la circulation sur les routes nationales hors agglomérations.
+ Il a le pouvoir de se substituer tant au maire qu’au président du conseil départemental.
+Le préfet peut se substituer au maire dans deux hypothèses : 
+* lorsque l’ordre public est menacé dans deux ou plusieurs communes du même département et que les autorités municipales concernées font preuve de carence ; 
+* si, dans une commune, le maire néglige de prendre les mesures appropriées ; la substitution doit être précédée d’une mise en demeure restée sans résultat - Article L2215-1 du CGCT. 
+Le préfet a également la possibilité de se substituer au président du conseil départemental, en cas de carence de ce dernier et après mise en demeure restée sans résultat - Article L3221-5 du CGCT.
+ Dans une commune où la police est étatisée (c’est-à-dire où la police nationale est compétente), certains des pouvoirs de police du maire sont transférés au préfet d’une manière permanente :
+* Le soin de réprimer les atteintes à la tranquillité publique ;
+* Le maintien de l’ordre public quand il se fait occasionnellement de grands rassemblements d'hommes (Exemple : manifestation sur la voie publique).
+ Les mesures de police du préfet sont édictées sous la forme d’actes administratifs unilatéraux dénommés « arrêtés ». 
+ « Arrêtés », tel est en principe, ultime rappel, le nom donné aux actes administratifs unilatéraux pris par toutes les autorités administratives autres que le Président de la République et le Premier ministre, et ce quelle que soit la matière (police administrative ou non). 
+
+**
+3 – Manifestations sur la voie publique et autorités de police compétentes 
+ Contrairement à certaines idées reçues, le Conseil constitutionnel n’a pas expressément consacré la liberté de manifestation en tant que telle. Il a préféré la rattacher à ce qu’il appelle le « droit d’expression collective des idées et des opinions » qu’il range au nombre des droits et libertés constitutionnellement garantis – Décision du 4 avril 2019, Loi visant à renforcer et garantir le maintien de l’ordre public lors des manifestations.
+ Ainsi, l’absence de consécration directe ne prive pas la liberté de manifestation de garanties constitutionnelles solides.
+ Il s’ensuit que, toujours contrairement à une idée bien ancrée, le droit de manifester n’est pas soumis à une autorisation, mais à une simple déclaration préalable. 
+Autrement dit, en France, on ne demande pas l’autorisation de manifester.
+Toutefois, les organisateurs de l’événement doivent déclarer leur intention de manifester sur la voie publique.
+L’article L211-1 du Code de la sécurité intérieure dispose :
+« Sont soumis à l'obligation d'une déclaration préalable tous cortèges, défilés et rassemblements de personnes, et, d'une façon générale, toutes manifestations sur la voie publique. »
+ Cette déclaration donne aux autorités de police (uniquement maire ou préfet selon les cas décrits ci-dessous) la possibilité
+   * soit de prendre des mesures pour assurer le maintien de l’ordre public pendant la manifestation projetée,
+   * soit d’interdire la manifestation envisagée, mais pas de l’autoriser, car, répétons-le, en France, point n’est besoin d’autorisation pour manifester sur la voie publique.
+ La déclaration est faite, trois jours francs au moins et quinze jours francs au plus avant la date de la manifestation projetée, 
+   o à la mairie de la commune ou aux mairies des différentes communes sur le territoire desquelles la manifestation doit avoir lieu, 
+   o ainsi qu’à la préfecture de département si la manifestation doit avoir lieu sur le territoire de communes à police d’État, c’est-à-dire de communes où la police nationale est compétente.
+La déclaration mentionne les noms, prénoms et domiciles des organisateurs.
+Elle est signée par au moins l'un des organisateurs.
+Elle indique le but de la manifestation, le lieu, la date et l'heure du rassemblement des groupements invités à y prendre part et, s'il y a lieu, l'itinéraire projeté.
+ Si l'autorité investie des pouvoirs de police (uniquement : le maire s’agissant d’une commune sans police d’État ; le préfet de département en ce qui concerne une commune à police d’État, mais pas le ministre de l’Intérieur !) estime que la manifestation envisagée est de nature à troubler l'ordre public, elle est seule compétente pour l'interdire par un arrêté qu'elle notifie immédiatement aux auteurs de la déclaration.
+ La presse a coutume d’interpréter l’absence d’interdiction comme une autorisation. Elle appelle « manifestation autorisée » une manifestation qui a été déclarée et qui n’a pas été interdite. Bien sûr, cette interprétation est erronée, car, répétons-le une dernière fois, en France, point n’est besoin d’autorisation pour manifester sur la voie publique.
+
+4 – Le concours des pouvoirs de police administrative 
+
+Définition : Il y a concours (rencontre) des pouvoirs de police administrative lorsque différentes autorités prennent des mesures de police administrative relativement aux mêmes circonstances de fait. 
+
+
+ Illustration concrète : Lorsque nous constatons que le préfet et le maire, agissant séparément, prennent des mesures de police pour maintenir l’ordre public au cours d’un même événement sportif, nous sommes en droit de dire qu’il y a concours des pouvoirs de police du maire et du préfet. 
+Dans cette hypothèse, les pouvoirs, les mesures de police concourent à la même fin.
+Problème éventuel résumé par Xavier de Lesquen, rapporteur public au Conseil d’État, en paraphrasant le physicien français Auguste Fresnel : 
+« L’addition de plusieurs lumières peut produire l’obscurité », de même que « l’addition de plusieurs pouvoirs peut conduire au désordre. »3
+ Quels principes régissent de tels concours à l’effet d’épargner aux citoyens les affres d’une cacophonie juridique créée par des mesures de police potentiellement contradictoires 
+Deux hypothèses seront présentées :
+* Le concours des pouvoirs de deux autorités de police administrative générale (a)
+* Le concours des pouvoirs respectifs d’une autorité de police spéciale (Premier ministre) et d’autorités de police générale (les maires) pendant l’état d’urgence sanitaire (b)
+*
+ a – Le concours des pouvoirs de deux autorités de police administrative générale 
+ En cas de concours des pouvoirs de deux autorités de police administrative générale, une règle simple s’applique : 
+ L’autorité de police inférieure ne peut qu’aggraver les mesures prises par l’autorité supérieure, si les circonstances locales le justifient ; elle ne saurait les libéraliser (les assouplir) en prenant des mesures plus douces :
+* Conseil d’État, 18 avril 1902, Commune de Néris-les-Bains ;  
+* Conseil d’État, 8 août 1919, Labonne (Voir aussi, sans obligation, Analyse par le Conseil d’État de l'arrêt Conseil d’État, 8 août 1919, Labonne).
+* Exemple emblématique : Le Premier ministre limite, par décret bien sûr, la vitesse maximale autorisée en agglomération à 50 km/h. 
+Un maire peut réduire cette vitesse à 30 km/h, par exemple, si la situation locale le justifie ; il n’a pas le droit de la porter à 70 km/h, par exemple, et ce, quelle que soit la situation locale.
+Nota bene : Comme l’a relevé un étudiant à l’esprit critique fort heureusement bien aiguisé, la distinction entre « aggraver » et « libéraliser » procède, hors cas extrêmes, d’appréciations largement subjectives de l’autorité administrative et du juge.
+**
+b – Le concours des pouvoirs respectifs d’une autorité de police spéciale (le Premier ministre) et d’autorités de police générale (les maires) pendant l’état d’urgence sanitaire 
+Conseil d’État, Juge des référés, 17 avril 2020, Commune de Sceaux :
+ La loi du 23 mars 2020 a institué une police administrative spéciale, donnant au Premier ministre compétence pour édicter, par décret bien entendu, des mesures visant à faire face à une catastrophe sanitaire telle que l'épidémie de covid-19.
+ Aux mêmes fins, nombre de maires ont pris des mesures supplémentaires en leur qualité d’autorités de police administrative générale.
+ Selon le Conseil d’État, ce concours des pouvoirs respectifs d’une autorité de police spéciale (le Premier ministre) et d’autorités de police générale (les maires) pendant l’état d’urgence sanitaire est régi par le principe suivant : 
+ Un maire ne peut prendre des mesures dans le même domaine (celui de la lutte contre la catastrophe sanitaire) qu’à deux conditions :
+1. des raisons impérieuses liées à des circonstances locales doivent rendre indispensable l'édiction par le maire de telles mesures supplémentaires ;
+2. les mesures prises par le maire ne doivent pas compromettre la cohérence et l'efficacité des mesures prises par le Premier ministre.
+**
+*
+ Question : La police administrative est-elle un service public  
+ Réponse : Oui, mais elle se distingue des autres services publics à deux égards. Voir supra, page 8.
+ Question : Qu’est-ce qu’un décret  
+ Réponse : « Décret », tel est, en principe, le nom donné aux décisions administratives prises par le Premier ministre ou par le Président de la République, et ce, quelle que soit la matière (police administrative ou non). Voir supra, page 25.
+ Question : Qu’est-ce qu’un arrêté  
+ Réponse : « Arrêté », tel, en principe, est le nom donné aux décisions administratives prises par toutes les autorités administratives autres que le Président de la République et le Premier ministre, et ce quelle que soit la matière (police administrative ou non). Voir supra, page 26.
+**
+      B – Le contrôle des mesures de police administrative
+ Question : Qu’est-ce qu’une mesure de police administrative ? 
+ Réponse : Une mesure de police administrative, c’est tout simplement une décision prise par une autorité (Premier ministre, préfet, maire, etc.) dans le cadre des pouvoirs qui lui sont attribués ou reconnus en vue du maintien de l’ordre public.
+ Question : Qui contrôle la légalité des mesures de police administrative ? 
+ Réponse : Le juge administratif, bien évidemment. Souvenez-vous : les litiges relatifs à la police administrative ressortissent à la compétence des judications administratives.
+ Question : En matière de contrôle de la légalité des mesures de police administrative, pourquoi doit-on distinguer les périodes dites normales des périodes exceptionnelles ? 
+ Réponse : Il y a lieu doit de distinguer les périodes dites normales des périodes exceptionnelles pour la raison suivante : 
+ Dans des périodes exceptionnelles, le juge administratif considère souvent comme légales des mesures de police administrative qu’il tiendrait pour illégales dans des périodes dites normales. 
+Toutefois, quelle que soit la période, la formule du commissaire du gouvernement Louis Corneille reste d’actualité : « La liberté est la règle, la restriction de police l’exception ». 
+
+
+1 – Période dite normale et principe du triple test de proportionnalité
+ Question : Qu’est-ce que la proportionnalité 
+ Réponse : Il est pertinent d’attribuer au terme de proportionnalité une signification générique et une signification inhérente au contentieux des mesures de police : 
+1. Signification générique : La proportionnalité est un « mécanisme de pondération entre des principes juridiques de rang équivalent, simultanément applicables mais antinomiques »
+2. Signification propre au contentieux des mesures de police : Le principe de proportionnalité exige que toute mesure de police soit de nature à préserver un certain équilibre 
+* entre le respect des libertés 
+* et la sauvegarde de l’ordre public.
+
+a – La consécration expresse du principe du triple test de proportionnalité
+ SAUVÉ (Jean-Marc), 17 mars 2017, « Le principe de proportionnalité, protecteur des libertés »
+* Conseil d’État, 19 mai 1933, Benjamin :
+Ce premier arrêt introduit la logique de la proportionnalité dans le contrôle des mesures de police administrative. Voir Analyse par le Conseil d’État de l'arrêt Conseil d’État, 19 mai 1933, Benjamin.
+* Conseil d’État, assemblée, 26 octobre 2011, Association pour la promotion de l’image et autres. 
+Dans ce second arrêt, le Conseil d’Etat soumet pour la première fois les mesures de police administrative au « triple test de proportionnalité ».
+ Question : Que signifie exactement l’expression « triple test de proportionnalité » ? 
+ Réponse : Cette expression désigne les trois vérifications auxquelles procède le juge lorsqu’il contrôle la légalité d’une mesure de police administrative contestée devant lui. Concrètement, « triple test de proportionnalité » signifie que le juge vérifie, expressément ou implicitement, que la mesure de police administrative contestée est 
+1. nécessaire, 
+2. adaptée 
+3. et proportionnée à la sauvegarde de l’ordre public.
+ En cas de réponse affirmative sur ces trois points, la mesure de police administrative contestée est jugée légale. Sinon, elle est bien entendu illégale.
+
+**
+b – Le contrôle de la mesure de police par le biais du triple test de proportionnalité
+ En vertu du principe de proportionnalité, pour qu’une mesure de police administrative soit légale, elle doit être
+* nécessaire,
+* adaptée (ou appropriée)
+* et proportionnée (à l’objectif de sauvegarde de l’ordre public poursuivi).
+ En conséquence, les trois étapes du triple test de proportionnalité correspondent respectivement à la vérification expresse ou implicite par le juge
+* du caractère nécessaire de la mesure de police administrative,
+* puis, de son caractère adapté (ou appropriée),
+* enfin, de son caractère proportionné.
+* Exemple d’annonce par le juge de l’application du triple test de proportionnalité :
+Conseil d’État, 10 juin 2021, Syndicat national des journalistes : « Il appartient aux autorités titulaires du pouvoir de police administrative, afin de prévenir les troubles à l'ordre public, de prendre les mesures adaptées, nécessaires et proportionnées que peut appeler, le cas échéant, la mise en œuvre de la liberté de manifester. »
+
+Exemple de triple test réalisé expressément par le Conseil d’État :
+« 6. La décision de dissolution d'une association ou d'un groupement de fait prise sur le fondement de l'article L. 212-1 du code de la sécurité intérieure ne peut être prononcée, sous le contrôle du juge de l'excès de pouvoir, que si elle présente un caractère adapté, nécessaire et proportionné à la gravité des troubles susceptibles d'être portés à l'ordre public par les agissements entrant dans le champ de cet article […]
+12. Il apparaît que la dissolution du groupement ne peut être regardée, à la date du décret attaqué, comme une mesure adaptée, nécessaire et proportionnée à la gravité des troubles susceptibles d'être portés à l'ordre public » — Conseil d’État, section, 9 novembre 2023, Les Soulèvements de la Terre et autres.
+
+i – Première étape du test : la vérification du caractère nécessaire de la mesure de police
+ Pour qu’une mesure de police administrative soit légale, elle doit avant tout être nécessaire.
+« Nécessaire », cela veut dire qu’une mesure de police administrative doit avoir pour objet et pour but
+* soit de mettre fin à un trouble significatif (c’est-à-dire non négligeable) à l’ordre public, donc de rétablir l’ordre public,
+* soit d’écarter une menace réelle, un risque avéré de trouble à l’ordre public, donc de maintenir l’ordre public, d’éviter qu’il ne soit troublé.
+ Le juge considère qu’une mesure de de police administrative contestée devant lui n’était pas nécessaire au moment où l’autorité administrative l’a prise si cette mesure de de police administrative ne répondait
+* ni à une menace réelle de trouble significatif à l’ordre public
+* ni à un trouble réel et significatif à l’ordre public. 
+
+Deux précisions terminales sur le caractère nécessaire de la mesure de police administrative :
+Première précision : Une mesure de police administrative qui a été prise dans un but autre que le maintien ou le rétablissement de l’ordre public appelle deux appréciations :
+a. Elle n’est pas nécessaire ;
+b. Elle est entachée d’une illégalité appelée « détournement de pouvoir » – Conseil d’État, 26 novembre 1875, Pariset (en l’espèce, utilisation des pouvoirs de police dans un but financier).
+Seconde précision : L’autorité a l’obligation de prendre des mesures de police administrative lorsque deux conditions sont réunies :
+  * Il existe un péril grave « résultant d’une situation particulièrement dangereuse » pour l’ordre public (Conseil d’État, 23 octobre 1959, Doublet), ou, en termes plus récents, il existe un « danger à la fois grave et imminent exigeant une intervention urgente qui ne peut être différée » (Conseil d’État, 31 août 2009, Commune de Crégols) ; 
+  * Il s’avère que des mesures de police administrative sont nécessaires pour mettre un terme à ce péril ou à ce danger – Conseil d’État, 23 octobre 1959, Doublet, arrêt précité.
+**
+ii – Deuxième étape du test : la vérification du caractère adapté de la mesure de police
+ Pour qu’une mesure de police administrative soit légale, elle ne doit pas seulement être nécessaire ; elle doit également être adaptée.
+« Adaptée », cela veut dire que la mesure de police administrative en cause doit être raisonnablement efficace, donc être susceptible
+* soit d’écarter une menace réelle de trouble significatif à l’ordre public (maintien de l’ordre public),
+* soit de mettre fin à un trouble réel et significatif à l’ordre public (rétablissement de l’ordre public).
+ Bref, n’est pas adaptée une mesure de police administrative qui ne permet pas vraiment de maintenir ni de rétablir l’ordre public.
+**
+iii – Troisième étape du test : la vérification du caractère proportionné de la mesure de police
+ Deux citations peuvent être retenues pour résumer la question du caractère proportionné que doivent avoir les mesures de police administrative : 
+« La liberté est la règle et la restriction de police, l’exception. » –  Louis Corneille précité (Conclusions sur Conseil d’État, 10 août 1917, Baldy).
+« La police ne doit pas tirer sur les moineaux à coups de canon. » –  Fleiner, selon Jean-Marc Sauvé (« Le principe de proportionnalité, protecteur des libertés », article précité).
+*
+ Pour qu’une mesure de police administrative soit légale, elle ne doit pas seulement être nécessaire et adaptée ; elle doit également être proportionnée.
+« Proportionnée », cela veut dire que la mesure de police administrative en cause ne doit pas excéder ce qu’exige le maintien ou le rétablissement de l’ordre public.
+Bref, elle ne doit pas être excessive, « hors de proportion avec le résultat recherché ». 
+En matière de police, la fin ne justifie pas toujours les moyens !
+ De manière presque systématique, le juge annule les interdictions qu’il considère comme trop générales ou absolues parce que manifestement disproportionnées.
+ Arrêt de principe : Conseil d’État, 19 mai 1933, Benjamin (Voir aussi Analyse, partiellement reproduite ci-dessous, par le Conseil d’État de l'arrêt Conseil d’État, 19 mai 1933, Sieur Benjamin)
+  Explication de l’espèce : M. Benjamin devait donner une conférence à Nevers sur le thème « Deux auteurs comiques : Courteline et Sacha Guitry. » 
+  Devant les nombreuses protestations et menaces de perturbation des syndicats d’instituteurs, qui reprochaient au conférencier de les ridiculiser à l’occasion de chacune de ses interventions, le maire de Nevers décida finalement d’interdire la conférence. 
+  Cette décision fut annulée par le Conseil d’État au motif que les risques de troubles à l’ordre public allégués par le maire pour interdire cette réunion n’étaient pas tels qu’ils aient pu justifier légalement l’interdiction de cette réunion publique, alors que la liberté de réunion était garantie par les lois du 30 juin 1881 et du 28 mars 1907 : 
+  « L'éventualité de troubles, alléguée par le maire de Nevers, ne présentait pas un degré de gravité tel qu'il n'ait pu, sans interdire la conférence, maintenir l'ordre en édictant les mesures de police qu'il lui appartenait de prendre ; »  
+  En clair, le maire aurait pu faire régner l’ordre public sans interdire la conférence. En l’espèce, l’interdiction était une mesure excessive, disproportionnée. 
+Pour finir, voici un « vrai faux » paradoxe : Qui peut le plus ne peut parfois le moins. 
+L’autorité administrative peut prendre une mesure d’interdiction à condition, comme on vient de le souligner, que ce ne soit pas une interdiction trop générale ou absolue.
+* Exemple : Conseil d’État, 26 juillet 1985, Société Glace Service.
+Explication de l’espèce : 
+Le préfet de Loire-Atlantique décide veut réglementer dans l’intérêt de la sécurité, de la tranquillité et de la salubrité publiques la vente ambulante sur les plages de la Baule et de Pornichet de gâteaux, confiseries et rafraîchissements.
+Par un arrêté de police, il interdit cette activité de vente ambulante, sous la seule réserve d’autorisations individuelles dont il ne précise ni l’importance, ni les conditions d’attribution et dont la délivrance est laissée à l’appréciation arbitraire des maires des communes intéressées.
+Le Conseil d’État juge illégal l’arrêté d’interdiction, car le préfet « ne pouvait légalement […] édicter une mesure d’interdiction générale et permanente ».
+Toutefois, l’autorité administrative elle n’a pas le droit de prendre une mesure en apparence moins énergique que l’interdiction : créer un régime d’autorisation.
+ En effet, l’autorité de police ne saurait, sous peine d’attenter aux libertés individuelles ou publiques, décider de soumettre l’exercice d’une activité professionnelle à un régime d’autorisation ou de déclaration préalable qui n’aurait pas été prévu par la loi, sauf si l’activité en cause a lieu sur le domaine public : 
+* Conseil d’État, assemblée, 22 juin 1951, Daudignac : A commis un excès de pouvoir le maire de Montauban qui « a soumis à une autorisation […] l'exercice, même temporaire, de la profession de photographe sur la voie publique » (profession dite de photographe-filmeur) ;
+* Conseil d’État, section, 29 janvier 1932, Société des autobus antibois : « [I]l appartient au maire de subordonner à la délivrance d’une autorisation l’exploitation d’un service fonctionnant à l’intérieur de l’agglomération urbaine » sur le domaine public.
+**
+
+2 – Périodes exceptionnelles et principe du triple test de proportionnalité
+ Durant des périodes considérées comme exceptionnelles, le triple test de proportionnalité continue d’être appliqué par le juge, mais il est beaucoup plus favorable à l’autorité de police.
+ Rappel : Dans des périodes exceptionnelles, le juge administratif considère souvent comme légales des mesures de police qu’il tiendrait pour illégales dans des périodes dites normales.
+a – Les circonstances exceptionnelles d’origine prétorienne
+ Prétorien = relatif au juge ; donc circonstances exceptionnelles procédant d’une construction jurisprudentielle.
+     * Exemple : Conseil d’État, 28 février 1919, Dames Dol et Laurent. Toulon, 1916. La Grande guerre s’enlise dans les tranchées ensanglantées. Pour tromper leur ennui, les Poilus s’adonnent, sans aucune retenue, aux délices proposées par les « péripatéticiennes ». 
+     Soucieux au plus haut point de la santé des troupes et des secrets militaires, le préfet maritime de Toulon prend deux séries de mesures :
+* interdiction est faite aux débitants de boissons de recevoir les « filles de joie » ;
+* défense est faite aux « filles soumises » de tenir elles-mêmes un débit de boissons et de racoler en dehors d’une zone réservée.
+      Deux « femmes galantes », Isabelle Dol et Jeanne Laurent, défèrent ces mesures de police administrative à la censure du Conseil d’État. Motif : atteinte intolérable à la liberté du commerce. Les deux « gagneuses » sont déboutées. Motifs : en raison du caractère exceptionnel des circonstances et de l’état de siège, l’autorité publique a pu valablement prendre de telles mesures de police.
+**
+b – L’état de siège
+
+Définition de l’état de siège :
+L’état de siège, c’est un régime exceptionnel de police déclaré « en cas de péril imminent, résultant d’une guerre étrangère ou d’une insurrection armée » – Article L 2121-1 du Code de la défense. 
+
+**
+c – L’état d’urgence « classique » ou « sécuritaire »
+
+Définition de l’état d’urgence sécuritaire :
+L’état d’urgence sécuritaire, c’est un régime exceptionnel de police déclaré « soit en cas de péril imminent résultant d'atteintes graves à l'ordre public, soit en cas d'événements présentant, par leur nature et leur gravité, le caractère de calamité publique » – Loi n° 55-385 du 3 avril 1955 relative à l’état d’urgence, article 1er. 
+
+d – L’état d’urgence sanitaire
+Définition de l’état d’urgence sanitaire :
+L’état d’urgence sanitaire, c’est un régime exceptionnel de police déclaré « en cas de catastrophe sanitaire mettant en péril, par sa nature et sa gravité, la santé de la population » – Loi n° 2020-290 du 23 mars 2020 d’urgence pour faire face à l’épidémie de covid-19. 
+
+**
+e – Le plan gouvernemental d'alerte et de prévention « Vigipirate »
+Définition du plan Vigipirate :
+Le plan Vigipirate est un dispositif d’alerte et de prévention qui vise à assurer la protection de la population et des sites sensibles dans un contexte de menace terroriste effective ou imminente.     
+***/***
+
+--- DOCUMENT 3: LES ACTES ADMINISTRATIFS UNILATÉRAUX ---
+Définition: Un acte administratif unilatéral est un acte de droit public (non législatif et non juridictionnel) destiné à régir le comportement d’une ou plusieurs personnes qui, tantôt étrangères, tantôt associées à son édiction, n’en sont pas, juridiquement, les auteurs.
+Définition: Une décision administrative est un acte administratif unilatéral, qui affecte l’ordonnancement juridique.
+Définition: L’ordonnancement juridique, c’est l'ensemble des règles de droit qui régissent un milieu social, et des situations juridiques dont sont titulaires les personnes.
+Définition: Affecter l’ordonnancement juridique, c’est soit modifier l’ordonnancement juridique, soit réaffirmer le contenu de l’ordonnancement juridique. 
+Définition: Une décision explicite (ou expresse) est une décision prise expressément, (c’est-à-dire en s’exprimant), par l’administration.
+Définition: Une décision implicite est une décision qu’un texte normatif déduit du silence gardé, pendant un certain temps, par l’autorité administrative saisie d’une demande.
+Circulaires: Acte de portée générale adressé par un chef de service aux agents. Distinction impérative (recours recevable) / non impérative. Depuis 2020 (GISTI), recours recevable si "effets notables".
+Lignes directrices: Orientations générales pour l'exercice d'un pouvoir discrétionnaire. Opposables si publiées.
+Définition: Une circulaire est un acte de portée générale, adressé par un chef de service aux agents placés sous son autorité, à l’effet de leur indiquer la manière d’interpréter et d’appliquer les dispositions des lois et règlements, ainsi que d’assurer l’organisation et le fonctionnement du service.
+Définition: Une circulaire revêt un caractère réglementaire, lorsqu’elle fixe une règle nouvelle absente des dispositions des lois et règlements.
+Définition: Une circulaire revêt un caractère impératif, lorsqu’en raison des termes employés par son auteur, ses destinataires sont tenus d’appliquer ses dispositions.
+Définition: Une circulaire revêt un caractère purement interprétatif, lorsqu’elle se borne à indiquer le sens des dispositions des lois et règlements.
+Définition: On appelle « lignes directrices » un acte de portée générale, par lequel une autorité, disposant d’un pouvoir d’appréciation, en général dans un domaine où elle reçoit des demandes de décisions, se fixe à elle-même, ou indique à ses subordonnés une ligne de conduite dans l’exercice de ce pouvoir.
+Définition: Un acte administratif individuel est un acte administratif unilatéral, qui a pour destinataires, une ou plusieurs personnes, qu’il désigne nommément ou nominativement.
+Définition: Un acte administratif réglementaire est un acte administratif unilatéral, qui a pour destinataires une ou plusieurs personnes, qu’il désigne abstraitement, ou qu’il ne désigne pas explicitement.
+Distinction Acte réglementaire / individuel:
+- Acte réglementaire: désigne abstraitement ses destinataires (impersonnel). Doit être publié.
+- Acte individuel: désigne nommément ses destinataires. Doit être notifié.
+Recours:
+- Voie d'action (recours pour excès de pouvoir): dans les 2 mois suivant publication/notification.
+- Voie d'exception (exception d'illégalité): perpétuelle pour les actes réglementaires, limitée au délai de recours pour les actes non réglementaires.
+Décisions:
+- Explicite: Écrite (Visas, Dispositif, Signature).
+- Implicite: Silence gardé par l'administration. Depuis 2013 (loi du 12 nov), le silence vaut acceptation (SVA) au bout de 2 mois, sauf exceptions (ex: demande financière, réclamation, etc. où silence vaut rejet).
 
 `;
 
