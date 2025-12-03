@@ -1646,6 +1646,230 @@ Question : Importe-t-il de souligner la différence entre les deux affirmations 
 2. Votre recours est recevable. Moi, juge, je suis alors en droit de me poser la seconde question, celle du bien-fondé de votre recours : est-ce que l’acte X est illégal et doit être annulé comme vous l’affirmez 
  La seconde question, celle du bien-fondé du recours, correspond à la question de la légalité de l’acte X ; elle diffère, on l’a vu, de la question de la recevabilité du recours.    
 ***
+
+--- DOCUMENT 4: LES ACTES CONTRATS ADMINISTRATIFS ---
+SECTION II
+LES CONTRATS ADMINISTRATIFS
+
+Définition : Une Clause exorbitante est une clause qui, notamment par les prérogatives qu’elle reconnaît à la personne publique contractante dans l’exécution du contrat, implique, dans l’intérêt général, que le contrat relève du régime exorbitant des contrats administratifs. Définition (un peu tautologique) due à la décision Tribunal des conflits, 13 octobre 2014, SA Axa France IARD contre MAIF.
+
+Définition : « Un marché public de travaux a pour objet :
+1° Soit l'exécution, soit la conception et l'exécution de travaux dont la liste figure dans un avis annexé au présent code ;
+2° Soit la réalisation, soit la conception et la réalisation, par quelque moyen que ce soit, d'un ouvrage répondant aux exigences fixées par l'acheteur qui exerce une influence déterminante sur sa nature ou sa conception. »
+
+Définition : Un marché public de fournitures a pour objet l'achat, la prise en crédit-bail, la location ou la location-vente de produits.
+
+Définition : Un marché public de services a pour objet la réalisation de prestations de services.
+
+Définition : La procédure adaptée est une procédure par laquelle l'acheteur définit librement les modalités de passation du marché, dans le respect des principes de la commande publique, à l'exception des dispositions relatives à des obligations inhérentes à un achat selon une procédure formalisée.
+
+Définition : L’appel d’offres, ouvert ou restreint, est la procédure par laquelle l’acheteur [la personne publique] choisit l’offre économiquement la plus avantageuse [donc son cocontractant], sans négociation, sur la base de critères objectifs préalablement portés à la connaissance des candidats.
+
+Définition : La procédure avec négociation est la procédure par laquelle l’acheteur [la personne publique] négocie les conditions du marché public avec un ou plusieurs opérateurs économiques.
+
+Définition : Le dialogue compétitif est la procédure par laquelle l'acheteur dialogue avec les candidats admis à y participer en vue de définir ou développer les solutions de nature à répondre à ses besoins et sur la base desquelles ces candidats sont invités à remettre une offre.
+
+Définition : Par « mesures d’exécution du contrat », on entend l’une quelconque des trois catégories de mesures que l’administration contractante peut prendre :
+- les mesures d’application du contrat, 
+- les mesures de modification du contrat 
+- et les mesures de résiliation du contrat.
+
+Définition : Le pouvoir de modification unilatérale est la faculté reconnue à l’administration de modifier, en cours d’exécution, l’étendue des prestations à effectuer par le cocontractant.
+
+Définition : L’équation financière, c’est la théorie permettant l’indemnisation du cocontractant lorsque l'administration contractante, agissant en tant que partie au contrat, modifie unilatéralement et directement les modalités d'exécution du contrat ou les prestations du cocontractant.
+
+Définition : Le fait du prince, c’est la théorie permettant l’indemnisation du cocontractant lorsque l'administration contractante, bien qu’elle n’agisse pas en tant que partie au contrat, modifie unilatéralement et indirectement les modalités d'exécution du contrat ou les prestations du cocontractant. 
+
+Définition : L’imprévision, c’est la théorie permettant d’obliger l'administration contractante à aider financièrement son cocontractant lorsqu'un événement imprévisible, (donc anormal) et indépendant de la volonté des parties bouleverse l'économie du contrat. 
+
+
+**  
+
+ Les contrats de l’administration se répartissent entre deux grandes catégories :
+1. les contrats administratifs, qui relèvent du droit administratif et du juge administratif,
+2. les contrats de droit privé, qui relèvent du droit privé et du juge judiciaire.
+ Naturellement, la question « Devant quel juge doit-on porter un litige relatif à tel contrat ? » appelle la question « Quelle est la nature juridique de ce contrat ? »
+
+     I – L’identification des contrats administratifs
+ Au stade de l'identification, c'est-à-dire de la qualification, on peut avoir affaire à deux types de contrats administratifs :
+1. les contrats administratifs par détermination de la loi (C’est l’exception ; cela dit, il existe également des contrats de droit privé par détermination de la loi)
+2. et les contrats administratifs par application des critères jurisprudentiels (C’est le principe ; par ailleurs, il existe aussi des contrats qui sont toujours de droit privé par prédétermination de la jurisprudence).
+ 
+      A – Les contrats administratifs par détermination de la loi
+ C’est l’hypothèse la plus simple. 
+ En conséquence de dispositions législatives, certains contrats conclus par l’administration sont toujours considérés comme des contrats administratifs. 
+
+Le législateur peut intervenir de deux manières :   
+       1. soit il qualifie un contrat de contrat administratif – qualification directe, hypothèse rarement réalisée ;  
+       2. soit il confie le contentieux d’un contrat aux juridictions administratives – qualification indirecte, hypothèse plus fréquente.
+      L’une et l’autre qualification (directe et indirecte) produisent des effets juridiques parce qu’elles émanent du législateur. 
+      Dans l’un et l’autre cas, il s’agit d’un contrat administratif par détermination de la loi.
+* Exemple de qualification directe :
+ Les marchés (contrats) conclus en application du code de la commande publique. 
+La loi n° 2001-1168 du 11 décembre 2001, dite loi MURCEF (Mesures Urgentes de Réformes à Caractère Économique et Financier), dispose en son article 2 : 
+« Les marchés passés en application du code [de la commande publique] ont le caractère de contrats administratifs. »
+* Exemple de qualification indirecte :
+ Les contrats de vente de biens immobiliers dépendant du domaine privé de l’État. 
+La loi du 28 pluviôse an VIII (17 février 1800) a attribué leur contentieux aux juridictions administratives. 
+Le but recherché était de rassurer les acquéreurs de biens confisqués pendant la Révolution. En effet, le juge administratif, contrairement au juge judiciaire, était présumé peu favorable aux anciens propriétaires. 
+Cette loi a fait l’objet d’une interprétation stricte : il s’agit de la vente et non de l’achat ou de l’échange. 
+Actuellement, le principe est repris à l’article L. 3331-1 du code général de la propriété des personnes publiques (CG3P) – TC 6 juin 2011, Préfet de Seine-et-Marne contre Société Participations premières. 
+ *
+ À l’inverse, il existe des contrats qui sont toujours considérés comme des contrats de droit privé, soit en application de la loi, soit en application de principes issus de la jurisprudence.
+* Exemple :
+ De jurisprudence constante, sont des contrats de droit privé les contrats conclus entre les services publics à caractère industriel et commercial et leurs usagers en vue de fournir à ces derniers des prestations de service. 
+Ces contrats ne sont jamais qualifiés de contrats administratifs même s'ils satisfont aux critères jurisprudentiels permettant de qualifier un contrat de contrat administratif – Conseil d’État, Section, 13 octobre 1961, Établissements Campanon-Rey ; Tribunal des Conflits, 17 décembre 1962, Dame Bertrand.
+**
+
+        B – Les contrats administratifs par application des critères jurisprudentiels
+	
+1 – Le critère organique : au moins, une personne publique partie au contrat
+ Question : Qu’est-ce qu’une personne publique ? 
+ Réponse : Rappel 
+* L’expression courante est bien personne publique. 
+* Mais c’est un raccourci, car l’expression juridique complète est personne morale de droit public.
+* Personne publique et personne morale de droit public sont synonymes.
+* Une personne publique est donc
+o une personne morale
+o globalement soumise au droit public.
+ Nota bene : une personne publique n’est jamais ni un homme, ni une femme ; c’est forcément un organisme ou un groupement.
+ Question : À quoi voit-on qu'une personne publique est effectivement partie au contrat ? 
+ Réponse : On considère qu'une personne publique est effectivement partie au contrat dans l’un quelconque des trois cas suivants :
+- ou bien une personne publique a conclu directement le contrat (a),
+- ou bien une personne publique a donné mandat à une personne privée pour qu'elle conclue le contrat au nom de cette personne publique (b),
+- ou, enfin, il s’agit de l’hypothèse de la « personne privée transparente » : une personne publique apparaît en transparence derrière une personne privée, les actes de celle-ci étant considérés comme des actes de celle-là (c).
+a – La présence directe d’une personne publique à la conclusion du contrat
+
+C’est le cas de figure le plus simple et le plus répandu.
+Explication : Une personne publique (État, commune, département, région, université, etc.) conclut directement un contrat avec une personne privée ou avec une autre personne publique.
+Exemples :
+?? La commune de Toulouse (personne publique) conclut directement (par son maire) un contrat avec l’entreprise Thomas et Frères (personne privée).
+?? L’État (personne publique) conclut directement (par un ministre) un contrat avec le département de la Haute-Garonne (personne publique).
+
+b – Le mandat donné par une personne publique à une personne privée
+
+Explication :
+La personne publique ne conclut pas directement le contrat. 
+Elle mandate à cet effet une personne privée.
+Selon l’article 1984 du code civil, « le mandat ou procuration est un acte par lequel une personne donne à une autre le pouvoir de faire quelque chose pour le mandant et en son nom. » 
+La personne publique (le mandant) donne mandat à une personne privée (le mandataire) pour conclure un contrat au nom et pour le compte de la personne publique.
+En apparence, un tel contrat intervient entre deux personnes privées ; en réalité, il met en relation une personne publique et une personne privée. Une personne publique est bien partie à ce contrat. Donc, il n’y a pas atteinte au principe selon lequel un contrat ne peut être administratif si une personne publique n’y est pas partie – Tribunal des conflits, 16 mai 1983, Compagnie toulousaine de transports publics.
+Exemple :
+La commune de Toulouse (personne publique) donne mandat à l’entreprise Delphine Consulting (personne privée).
+En vertu de ce mandat, l’entreprise Delphine Consulting va conclure, au nom et pour le compte de la commune de Toulouse, un contrat avec l’entreprise Thomas et Frères (personne privée).
+Ce contrat met donc en rapport la commune de Toulouse (personne publique) avec l’entreprise Thomas et Frères (personne privée). 
+
+**
+ 
+c – La personne privée transparente
+
+Arrêt de principe : Conseil d’État, 21 mars 2007, Commune de Boulogne-Billancourt contre Société Mayday Sécurité.
+Différence avec le mandat : ici, la personne privée n’est pas vraiment autonome vis-à-vis de la personne publique ; elle lui sert de faux-nez. 
+
+C’est la personne publique 
+1. qui a créé cette personne privée (par exemple, association régie par la loi du 1er juillet 1901),
+2. qui en contrôle l’organisation et le fonctionnement
+3. et qui lui procure l’essentiel de ses ressources.
+
+On peut en fait assimiler la personne privée à l’un des services de la personne publique.
+La personne privée est transparente ; en l’observant, on voit à travers elle la personne publique.
+Il est donc logique de considérer, comme l’a fait le Conseil d’État,
+• que les contrats que signe la personne privée sont en réalité des contrats conclus par la personne publique,
+• que ces contrats remplissent ainsi le critère organique (présence d’une personne publique)
+• et que ces contrats sont des contrats administratifs s’ils remplissent de surcroît l’un des trois critères matériels supplémentaires nécessairement à la qualification de contrat administratif (Conseil d’État, 21 mars 2007, Commune de Boulogne-Billancourt contre Société Mayday Sécurité).
+
+**
+ Ainsi donc, pour qu’un contrat soit qualifié de contrat administratif selon les critères jurisprudentiels, la présence d’une personne publique en tant que partie est une condition sine qua non, une condition en principe invariablement exigée.
+**
+Enfin, « un contrat conclu entre deux personnes publiques revêt en principe un carac-tère administratif […], sauf dans le cas où, eu égard à son objet, il ne ferait naître entre les parties que des rapports de droit privé » - Tribunal des conflits, 21 mars 1983, Union des Assurances de Paris.
+Explication de ce dernier principe : un contrat conclu entre deux personnes publiques est présumé administratif ; grande est la probabilité qu’il s’agisse d’un contrat administratif. Mais c’est une présomption simple. Le contrat n’est effectivement administratif que s’il satisfait aux autres critères jurisprudentiels.
+Exemples : 
+• Conseil d’État, 24 novembre 2008, Syndicat mixte des eaux et de l'assainissement de la région du Pic-Saint-Loup : a été jugé administratif le contrat conclu entre la ville de Montpellier (personne publique) et ledit syndicat mixte (personne publique) ; en effet, ayant pour objet d’organiser le service public de distribution d’eau potable, ce contrat remplissait l’un des autres critères jurisprudentiels exigés (en l’occurrence, le service public) ; cf. dans le même sens Tribunal des conflits, 7 octobre 1991, CROUS de l’académie de Nancy-Metz ;
+• Conseil d’État, 3 novembre 2003, Union des groupements d'achats publics(UGAP) : a été considérée comme un contrat de droit privé la convention conclue entre l’UGAP et l’État en vue de la fourniture de véhicules ; faute de satisfaire aux autres critères jurisprudentiels requis, « un tel contrat, bien que passé entre deux personnes publiques, ne présentait pas le caractère d’un contrat administratif » ; cf. aussi Conseil d’État, 11 mai 1990, Bureau d’aide sociale de Blénod les Ponts-à-Mousson.
+? Un contrat conclu entre deux personnes publiques peut donc être soit un contrat administratif, soit un contrat de droit privé. 
+• À quoi sert-il alors d'affirmer que les contrats conclus entre deux personnes publiques sont présumés administratifs, étant donné que, dans les faits, on les traite comme les autres contrats ?
+o Seule la Cour de cassation semble avoir tiré les conséquences logiques de la présomption :
+ « Attendu que pour rejeter cette exception, la cour d'appel a relevé que les contrats de prêts n'avaient pas pour objet l'exécution même d'un service public et ne comportaient pas de clauses exorbitantes du droit commun ;
+Attendu qu'en déniant ainsi un caractère administratif aux contrats passés par deux personnes publiques sans caractériser en quoi ces contrats avaient, eu égard à leur objet, fait naître entre les parties des rapports de droit privé, la cour d'appel n'a pas donné de base légale à sa décision. » (Cass. 1e civ., 16 mars 1999, Chambre de commerce et d'industrie de Valence contre Crédit local de France).
+o La position, logique, de la Cour de cassation, qui découle de l’arrêt précité, est donc la suivante : pour pouvoir affirmer qu'un contrat conclu entre deux personnes publiques ne revêt pas un caractère administratif,
+i. il ne suffit pas de démontrer que ce contrat ne remplit pas les autres critères jurisprudentiels nécessaires à la qualification de contrat administratif,
+ii. il faut, de surcroît, démontrer que ce contrat, égard à son objet, ne fait naître entre les parties que des rapports de droit privé.
+o Cette position la Cour de cassation donne tout son sens à la présomption selon laquelle un contrat conclu entre deux personnes publiques revêt un caractère administratif.
+**
+ L’exigence qu’une personne publique soit partie au contrat est une condition est nécessaire, mais elle n’est pas suffisante pour qu’un contrat soit administratif selon les critères jurisprudentiels.
+**
+2 – Les critères matériels
+ Selon une jurisprudence constante, sauf exception, seul un contrat auquel est partie, directement ou indirectement, une personne publique est susceptible d'être un contrat administratif. 
+ Mais il ne l'est effectivement que s’il satisfait, en plus, à l'une des conditions suivantes :  
+1. le contrat renferme une ou plusieurs clauses exorbitantes du droit commun (a),  
+2. le contrat a été conclu sous un régime exorbitant (b),
+3. le contrat est en relation avec l'exécution d'une mission de service public (c). 
+ L’un quelconque de ces trois critères doit s’ajouter au critère de la présence d’une personne publique en tant que partie, pour que le contrat soit administratif. 
+ Bien entendu, si, par extraordinaire, un contrat remplissait simultanément tous ces critères, il serait également tenu pour administratif.
+a – La présence de clauses exorbitantes du droit commun
+ Arrêt de principe : Conseil d’État, 31 juillet 1912, Société des granits porphyroïdes des Vosges, n° 30701 (Rec. p.909, conclusions Léon Blum).  
+ En principe, un contrat 
+* auquel est partie une personne publique 
+* et qui, de surcroît, contient une ou plusieurs clauses exorbitantes 
+est un contrat administratif.
+ Exception : les contrats conclus entre les services publics à caractère industriel et commercial et leurs usagers en vue de fournir à ces derniers des prestations de services. 
+Ces contrats ne sont jamais des contrats administratifs même s'ils renferment des clauses exorbitantes. En conséquence, ce sont toujours des contrats de droit privé : Conseil d’État, Section, 13 octobre 1961, Établissements Compagnon-Rey, Rec. p. 567 ; TC 17 décembre 1962, Dame Bertrand, Rec. p. 831.
+ Précision importante : La présence de clauses exorbitantes du droit commun ne donne un caractère administratif au contrat, que si ces clauses exorbitantes sont stipulées au profit de la personne publique contractante, et non au profit de la personne privée – Tribunal des conflits, 2 novembre 2020, Société Eveha.
+*
+ Question : Qu’est-ce qu’une clause exorbitante du droit commun ? 
+ Réponse : 
+Clause = disposition d'un contrat ; 
+Exorbitante = ex orbita, hors de la voie tracée, hors du droit commun.
+
+Définition : Une Clause exorbitante est une clause qui, notamment par les prérogatives qu’elle reconnaît à la personne publique contractante dans l’exécution du contrat, implique, dans l’intérêt général, que le contrat relève du régime exorbitant des contrats administratifs. Définition (un peu tautologique) due à la décision Tribunal des conflits, 13 octobre 2014, SA Axa France IARD contre MAIF.
+
+* Exemples de clauses exorbitantes du droit commun :
+* la clause qui donne à l’administration la faculté de prononcer la résiliation unilatérale du contrat en l’absence de tout manquement du cocontractant à ses obligations contractuelles ;
+* la clause qui donne à l’administration le pouvoir de suspendre d'office l'exécution du contrat, sans mise en demeure préalable ;
+* la clause permettant à l'administration de contrôler les résultats financiers, les tarifs ou le personnel de son cocontractant.
+**
+b – La présence d'un régime exorbitant
+ Le régime exorbitant diffère de la clause exorbitante sur un point : 
+o la clause exorbitante est un élément, une disposition, une clause du contrat. 
+o À l’inverse, le régime exorbitant est constitué d'éléments extérieurs au contrat. C'est l'ambiance juridique dans laquelle baigne le contrat. Si cette ambiance tranche sur le droit commun, le droit privé, on est en présence d'un contrat administratif.
+ Arrêt de principe : CE Section, 19 janvier 1973, Société d'Exploitation Électrique de la rivière du Sant. 
+L’espèce concerne des contrats conclus entre EDF et des producteurs autonomes (non nationalisés) d’électricité. 
+Objet de ces contrats : achat de la production d'électricité par EDF.  
+Ambiance, régime juridique : obligation pour les producteurs de contracter, obligation de saisir d’abord le ministre en cas de litige. Ces obligations exorbitantes ne sont pas contenues dans le contrat ; elles résultent de textes extérieurs au contrat. Ambiance juridique exorbitante = contrats administratifs.  
+ Il faut tout de même noter que ce critère n’a pas connu le développement escompté par la doctrine. Il n’a trouvé application que dans le cas particulier des marchés conclus entre EDF et les producteurs privés.
+c – La relation avec l'exécution d'une mission de service public
+ Dans ce cas, selon une célèbre formule jurisprudentielle, le contrat fait participer directement (ou associe le cocontractant) à l'exécution (même) du service public.
+ En pratique, cette relation peut prendre l'une des trois formes suivantes :
+
+
+1. Le contrat d’habilitation à gérer un service public ou d’association à l’exécution même du service public
+ Est administratif un contrat qui a pour objet soit de confier au cocontractant de la personne publique la gestion d'un service public, soit de l’y associer directement.
+ Conseil d’État, Section, 20 avril 1956, Époux Bertin : En l’espèce, contrat verbal ayant pour objet d'assurer la nourriture de ressortissants soviétiques hébergés dans un centre de rapatriement, contrat d’habilitation à gérer un service public. 
+ Le service public confié au cocontractant peut avoir un caractère administratif ou un caractère industriel et commercial.
+2. Le contrat de recrutement d’une personne dans un service public à caractère administratif géré par une personne publique 
+* Exemple : au sein de l'université, les attachés temporaires d'enseignement et de recherches - chargés de travaux dirigés.
+Tribunal des conflits, 25 mars 1996, Préfet de la région Rhône-Alpes, préfet du Rhône et autres contre Conseil de prud'hommes de Lyon – plus connu sou l’appellation « arrêt Berkani ». 
+ Tout contrat de recrutement en vertu duquel une personne travaille pour le compte d'un service public à caractère administratif géré par une personne publique est un contrat administratif. L’agent signataire d’un tel contrat a nécessairement la qualité d'agent public. 
+C’est le principe inverse qui est retenu lorsqu’il s’agit d’un service public à caractère industriel et commercial. 
+3. Le contrat conclu avec l’usager d’un service public à caractère administratif 
+Conseil d’État, 6 mai 1985, Ricard. Cette espèce concerne l’ancien contrat d’abonnement au service téléphonique. 
+ Cela dit, en principe, l’usager d’un service public à caractère administratif n’est pas dans une situation contractuelle, comme le rappelle le Tribunal des conflits dans une affaire relative aux péages autoroutiers : 
+« Considérant qu’une société concessionnaire de la construction et de l’exploitation d’une autoroute a pour activité l’exécution d’une mission de service public administratif, sans qu’y fasse obstacle la circonstance que les péages, qui ont le caractère de redevances pour service rendu, sont assujettis à la taxe sur la valeur ajoutée; que les usagers de l’autoroute, même abonnés, sont dans une situation unilatérale et réglementaire à l’égard du concessionnaire ; »  – Tribunal des conflits, 20 novembre 2006, Société EGTL c Escota_autoroute.  
+ Nota bene : À l’inverse les contrats (très fréquents) conclus avec les usagers des services publics à caractère industriel et commercial sont des contrats de droit privé même s’ils renferment des clauses exorbitantes du droit commun.
+**
+
+
+La qualification de contrat administratif découle 
+* soit de la loi,
+* soit de l'application des critères définis par la jurisprudence.
+La loi (Cf. I – A) : elle a confié, directement ou indirectement, le contentieux de certains contrats aux juridictions administratives. 
+Les critères définis par la jurisprudence (Cf. I – B) : Sous réserve d’exceptions législatives ou jurisprudentielles, un contrat ne peut être considéré comme administratif que si au moins une personne publique y est partie directement ou indirectement. 
+ Cette condition, qui est toujours exigée par la jurisprudence, ne suffit pas. Pour être administratif, le contrat auquel est partie une personne publique doit satisfaire, en plus à au moins l'un des autres critères jurisprudentiels :
+1. le contrat contient une ou plusieurs clauses exorbitantes ;
+2. le contrat a été conclu sous un régime exorbitant ;
+3. le contrat est en relation avec l'exécution d'une mission de service public.
+ Toutefois, certains contrats ne sont jamais considérés comme des contrats administratifs même s'ils satisfont à tous les critères définis par la jurisprudence. Exemple : le contrat conclu entre un service public industriel et commercial et l'un de ses usagers en vue de fournir à ce dernier des prestations de service.
+**
     
 `;
 
