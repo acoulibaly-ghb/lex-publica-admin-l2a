@@ -1,8 +1,9 @@
+
 import React, { useState, useRef, useEffect } from 'react';
 import { GoogleGenAI, Modality } from "@google/genai";
 import { Message, ChatSession, ChatMode } from '../types';
 import { SYSTEM_INSTRUCTION } from '../constants';
-import { decodeAudioData } from '../utils/audio-utils';
+import { decodeAudioData, playAudioBuffer } from '../utils/audio-utils';
 import { fileToBase64 } from '../utils/file-utils';
 
 // --- Markdown Component Helper ---
@@ -54,7 +55,16 @@ const SimpleMarkdown = ({ text, isUser }: { text: string, isUser: boolean }) => 
             {parseBold(line.replace('## ', ''))}
           </h2>
         );
-      } 
+      }
+    // Titles (#### or #####) -> Bold Paragraphs
+    else if (line.startsWith('#### ') || line.startsWith('##### ')) {
+        flushList(`list-before-${index}`);
+        elements.push(
+          <p key={`h-bold-${index}`} className={`font-bold mt-4 mb-2 ${isUser ? 'text-white' : 'text-indigo-700'}`}>
+            {parseBold(line.replace(/#{4,5} /, ''))}
+          </p>
+        );
+    }
     // List items
     else if (line.startsWith('- ') || line.startsWith('* ')) {
       currentList.push(
@@ -97,7 +107,7 @@ const TextChat: React.FC = () => {
   // --- STATE ---
   const [sessions, setSessions] = useState<ChatSession[]>([]);
   const [currentSessionId, setCurrentSessionId] = useState<string | null>(null);
-  const [showHistory, setShowHistory] = useState(false); // Hidden by default
+  const [showHistory, setShowHistory] = useState(false);
   
   // Renaming state
   const [editingSessionId, setEditingSessionId] = useState<string | null>(null);
@@ -126,11 +136,27 @@ const TextChat: React.FC = () => {
   };
 
   const suggestions = [
-    "Qu'est-ce qu'un service public ?",
-    "L'arrêt Benjamin et la police administrative",
-    "Définition d'un acte réglementaire"
-  ];
-
+    {
+      text: "Définis ou explique...",
+      color: "bg-emerald-100 text-emerald-700 border-emerald-200 hover:bg-emerald-200 hover:border-emerald-300",
+      icon: <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
+    },
+    {
+      text: "Soumets-moi un petit cas pratique",
+      color: "bg-purple-100 text-purple-700 border-purple-200 hover:bg-purple-200 hover:border-purple-300",
+      icon: <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"></path></svg>
+    },
+    {
+      text: "Pose-moi un QCM",
+      color: "bg-blue-100 text-blue-700 border-blue-200 hover:bg-blue-200 hover:border-blue-300",
+      icon: <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg>
+    },
+    {
+      text: "Pose-moi une question Vrai/Faux",
+      color: "bg-amber-100 text-amber-700 border-amber-200 hover:bg-amber-200 hover:border-amber-300",
+      icon: <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+    }
+];
   // --- HISTORY MANAGEMENT ---
 
   useEffect(() => {
@@ -386,7 +412,7 @@ const TextChat: React.FC = () => {
   };
 
   const handleQuizStart = () => sendMessage("Lance une session de quiz interactif. Pose-moi une question de cours pour me tester (collez-moi).");
-  // 03/12/2025 02:44:23 const handleWhoAmI = () => sendMessage("Qui êtes-vous ?");
+  //04/12/2025 19:12:14 const handleWhoAmI = () => sendMessage("Qui êtes-vous ?");
 
   const sendMessage = async (text: string) => {
     if ((!text.trim() && !attachment) || isLoading) return;
@@ -397,6 +423,7 @@ const TextChat: React.FC = () => {
         return;
     }
 
+    // Audio Reset
     if (audioContextRef.current) {
         await audioContextRef.current.close();
         audioContextRef.current = null;
@@ -408,6 +435,7 @@ const TextChat: React.FC = () => {
     const userMsgText = attachment ? `[Fichier joint: ${attachment.file.name}] ${text}` : text;
     const userMsg: Message = { role: 'user', text: userMsgText, timestamp: new Date() };
     
+    // Update UI with User Message immediately
     const msgsWithUser = [...messages, userMsg];
     updateCurrentSession(msgsWithUser);
 
@@ -505,6 +533,7 @@ const TextChat: React.FC = () => {
 
   const handleSend = () => sendMessage(input);
 
+  // Icons
   const UserIcon = () => (
     <div className="w-8 h-8 rounded-full bg-indigo-600 flex items-center justify-center text-white shadow-md ring-2 ring-white">
       <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg>
@@ -521,7 +550,7 @@ const TextChat: React.FC = () => {
   );
 
   return (
-    <div className="flex h-[600px] relative bg-slate-50/50 overflow-hidden rounded-b-3xl">
+    <div className="flex h-[600px] relative bg-slate-50/50 overflow-hidden">
       
       {/* SIDEBAR (HISTORY) - Width 80 (320px) */}
       <div 
@@ -676,18 +705,17 @@ const TextChat: React.FC = () => {
             )}
 
             {/* Suggestions Chips & Quiz Button */}
-            {messages.length < 3 && !isLoading && !attachment && (
+            {!attachment && (
                 <div className="flex gap-2 mb-4 overflow-x-auto pb-2 scrollbar-hide items-center">
                     <button 
                         onClick={handleQuizStart}
                         className="whitespace-nowrap px-3 py-1.5 bg-rose-100 text-rose-700 text-xs font-bold rounded-full border border-rose-200 hover:bg-rose-200 hover:border-rose-300 transition-colors flex items-center gap-1 shadow-sm"
                     >
                         <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path></svg>
-                        Collez-moi !
+                        QUIZ à réponse construite !
                     </button>
-                     
-                     {/* 02/12/2025 19:03:11 : Bouton superflu
                     
+                    {/* 04/12/2025 19:07:56 Bouton superflu
                     <button 
                         onClick={handleWhoAmI}
                         className="whitespace-nowrap px-3 py-1.5 bg-teal-100 text-teal-700 text-xs font-bold rounded-full border border-teal-200 hover:bg-teal-200 hover:border-teal-300 transition-colors flex items-center gap-1 shadow-sm"
@@ -699,14 +727,22 @@ const TextChat: React.FC = () => {
 
                     <div className="w-px h-6 bg-slate-200 mx-1"></div>
                     {suggestions.map((s, i) => (
-                        <button 
-                            key={i}
-                            onClick={() => sendMessage(s)}
-                            className="whitespace-nowrap px-3 py-1.5 bg-indigo-50 text-indigo-600 text-xs font-medium rounded-full border border-indigo-100 hover:bg-indigo-100 hover:border-indigo-200 transition-colors"
-                        >
-                            {s}
-                        </button>
-                    ))}
+    <button 
+        key={i}
+        onClick={() => {
+          if (s.text === "Définis ou explique...") {
+            setInput("Définis ou explique-moi : ");
+            textareaRef.current?.focus();
+          } else {
+            sendMessage(s.text);
+          }
+        }}
+        className={`whitespace-nowrap px-3 py-1.5 text-xs font-bold rounded-full border transition-colors flex items-center gap-1 shadow-sm ${s.color}`}
+    >
+        {s.icon}
+        {s.text}
+    </button>
+))}
                 </div>
             )}
 
