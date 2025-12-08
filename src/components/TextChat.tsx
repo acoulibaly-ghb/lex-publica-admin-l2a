@@ -1,4 +1,3 @@
-
 import React, { useState, useRef, useEffect } from 'react';
 import { GoogleGenAI, Modality } from "@google/genai";
 import { Message, ChatSession, ChatMode } from '../types';
@@ -131,7 +130,7 @@ const TextChat: React.FC = () => {
 
   const DEFAULT_WELCOME_MESSAGE: Message = { 
     role: 'model', 
-    text: '### Bonjour !\n\nJe suis **Ada**, votre assistante juridique **virtuelle**, spécialisée en droit administratif général.\n\nJe peux vous aider sur les thèmes suivants :\n- **Service public et police administrative**\n- **Actes unilatéraux et contrats administratifs**\n- **Légalité et responsabilité**, etc.\n\nQuelle est votre question ?', 
+    text: '### Bonjour !\n\nJe suis **Ada**, votre assistante juridique **virtuelle**, spécialisée en droit du contentieux International.\n\nJe peux vous aider sur les thèmes suivants :\n- **La Cour Internationale de Justice**\n- **Les procédures contentieuse et consultative**\n- **La responsabilité internationale de l\'État**\n\nQuelle est votre question ?', 
     timestamp: new Date() 
   };
 
