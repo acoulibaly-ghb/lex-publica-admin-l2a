@@ -131,7 +131,7 @@ const TextChat: React.FC = () => {
 
   const DEFAULT_WELCOME_MESSAGE: Message = { 
     role: 'model', 
-    text: '### Bonjour !\n\nJe suis **Ada**, votre assistante juridique ***virtuelle***, spécialisée en droit administratif général.\n\nJe peux vous aider sur les thèmes suivants :\n- **Service public et police administrative**\n- **Actes unilatéraux et contrats administratifs**\n- **Légalité et responsabilité**, etc.\n\nQuelle est votre question ?', 
+    text: '### Bonjour !\n\nJe suis **Ada**, votre assistante juridique ___virtuelle___, spécialisée en droit administratif général.\n\nJe peux vous aider sur les thèmes suivants :\n- **Service public et police administrative**\n- **Actes unilatéraux et contrats administratifs**\n- **Légalité et responsabilité**, etc.\n\nQuelle est votre question ?', 
     timestamp: new Date() 
   };
 
